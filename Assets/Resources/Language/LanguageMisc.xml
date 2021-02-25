@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DataLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+    <Key Key="misc_turn">
+      <en>Turn</en>
+      <id>Giliran</id>
+    </Key>
+    <Key Key="misc_turns">
+      <en>Turns</en>
+      <id>Giliran</id>
+    </Key>
+    <Key Key="misc_population">
+      <en>Population</en>
+      <id>Populasi</id>
+    </Key>
+    <Key Key="misc_food">
+      <en>Food</en>
+      <id>Makanan</id>
+    </Key>
+    <Key Key="misc_production">
+      <en>Production</en>
+      <id>Produksi</id>
+    </Key>
+    <Key Key="misc_wealth">
+      <en>Wealth</en>
+      <id>Kekayaan</id>
+    </Key>
+    <Key Key="misc_culture">
+      <en>Knowledge</en>
+      <id>Pengetahuan</id>
+    </Key>
+    <Key Key="misc_military">
+      <en>Military</en>
+      <id>Militer</id>
+    </Key>
+    <Key Key="misc_finished">
+      <en>Finished</en>
+      <id>Selesai</id>
+    </Key>
+    <Key Key="misc_failed">
+      <en>Failed</en>
+      <id>Gagal</id>
+    </Key>
+	
+  </Keys>
+</DataLanguage>

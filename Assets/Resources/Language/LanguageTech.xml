@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DataLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+	
+	<!-- settlement -->
+    <Key Key="tech_name_settlement">
+      <en>Settlement</en>
+      <id>Pemukiman</id>
+    </Key>
+    <Key Key="tech_desc_settlement">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_settlement">
+      <en>[]Unlock House and Rice Field</en>
+      <id>[]Membuka Rumah dan Sawah</id>
+    </Key>
+	
+	
+	<!-- barter -->
+    <Key Key="tech_name_barter">
+      <en>Barter</en>
+      <id>Barter</id>
+    </Key>
+    <Key Key="tech_desc_barter">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_barter">
+      <en>[]Unlock Market[]+0.5 Wealth/Turn for each Population</en>
+      <id>[]Membuka Pasar[]+0.5 Kekayaan/Giliran untuk setiap Populasi</id>
+    </Key>
+	
+	<!-- forestry -->
+    <Key Key="tech_name_forestry">
+      <en>Forestry</en>
+      <id>Kehutanan</id>
+    </Key>
+    <Key Key="tech_desc_forestry">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_forestry">
+      <en>[]Unlock Lumberyard[]Clear Forest +1 Production/Turn</en>
+      <id>[]Membuka Tukang Kayu[]Menebang Pohon +1 Produksi/Giliran</id>
+    </Key>
+	
+	<!-- husbandry -->
+    <Key Key="tech_name_husbandry">
+      <en>Husbandry</en>
+      <id>Beternak</id>
+    </Key>
+    <Key Key="tech_desc_husbandry">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_husbandry">
+      <en>[]Unlock Pasture[]Rice Field +2 Food/Turn for each Pasture</en>
+      <id>[]Membuka Peternakan[]Sawah +2 Makanan/Giliran untuk setiap Peternakan</id>
+    </Key>
+	
+	<!-- pottery -->
+    <Key Key="tech_name_pottery">
+      <en>Pottery</en>
+      <id>Tembikar</id>
+    </Key>
+    <Key Key="tech_desc_pottery">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_pottery">
+      <en>[]Unlock Granary[]Market +4 Wealth/Turn for each Granary</en>
+      <id>[]Membuka Lumbung[]Pasar +4 Kekayaan/Giliran untuk setiap Lumbung</id>
+    </Key>
+	
+	<!-- tracking -->
+    <Key Key="tech_name_tracking">
+      <en>Tracking</en>
+      <id>Pelacakan</id>
+    </Key>
+    <Key Key="tech_desc_tracking">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_tracking">
+      <en>[]Explore Ancient Ruins +100% Resource/Turn[]-33% Explore Area Time</en>
+      <id>[]Menjelajah Reruntuhan Kuno +100% Sumber Daya/Giliran[]-33% Waktu Menjelajah Wilayah</id>
+    </Key>
+	
+	
+	<!-- irrigation -->
+    <Key Key="tech_name_irrigation">
+      <en>Irrigation</en>
+      <id>Irigasi</id>
+    </Key>
+    <Key Key="tech_desc_irrigation">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_irrigation">
+      <en>[]Rice Field carry Freshwater[]Rice Field +1 Wealth/Turn</en>
+      <id>[]Sawah menyalurkan Mata Air[]Sawah +1 Kekayaan/Giliran</id>
+    </Key>
+	
+	<!-- red brick -->
+    <Key Key="tech_name_redbrick">
+      <en>Red Brick</en>
+      <id>Bata Merah</id>
+    </Key>
+    <Key Key="tech_desc_redbrick">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_redbrick">
+      <en>[]Unlock Brickkiln[]House +1 Maximum Population</en>
+      <id>[]Membuka Tukang Bata[]Rumah +1 Populasi Maksimum</id>
+    </Key>
+	
+	<!-- forging -->
+    <Key Key="tech_name_forging">
+      <en>Forging</en>
+      <id>Penempaan</id>
+    </Key>
+    <Key Key="tech_desc_forging">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_forging">
+      <en>[]Unlock Mine[]Lumberyard +2 Production/Turn</en>
+      <id>[]Membuka Tambang[]Tukang Kayu +2 Produksi/Giliran</id>
+    </Key>
+	
+	<!-- meditation -->
+    <Key Key="tech_name_meditation">
+      <en>Meditation</en>
+      <id>Meditasi</id>
+    </Key>
+    <Key Key="tech_desc_meditation">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_meditation">
+      <en>[]Unlock Temple[]+0.25 Knowledge/Turn for each Population</en>
+      <id>[]Membuka Candi[]+0.25 Pengetahuan/Giliran untuk setiap Populasi</id>
+    </Key>
+	
+	
+	<!-- warriorcode -->
+    <Key Key="tech_name_warriorcode">
+      <en>Warrior Code</en>
+      <id>Kode Prajurit</id>
+    </Key>
+    <Key Key="tech_desc_warriorcode">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_warriorcode">
+      <en>[]Unlock Barracks[]+0.25 Military/Turn for each Population</en>
+      <id>[]Membuka Barak[]+0.25 Militer/Giliran untuk setiap Populasi</id>
+    </Key>
+	
+	<!-- taxation -->
+    <Key Key="tech_name_taxation">
+      <en>Taxation</en>
+      <id>Perpajakan</id>
+    </Key>
+    <Key Key="tech_desc_taxation">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_taxation">
+      <en>[]House +1 Wealth/Turn[]-25% Building Upkeep Cost</en>
+      <id>[]Rumah +1 Kekayaan/Giliran[]-25% Biaya Pemeliharaan Bangunan</id>
+    </Key>
+	
+	<!-- seafaring -->
+    <Key Key="tech_name_seafaring">
+      <en>Seafaring</en>
+      <id>Pelayaran</id>
+    </Key>
+    <Key Key="tech_desc_seafaring">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_seafaring">
+      <en>[]Unlock Harbor and World Map[]Explore Area reveal all unexplored area in 2 range</en>
+      <id>[]Membuka Pelabuhan dan Peta Dunia[]Menjelajah Wilayah membuka Semua wilayah yang berjarak 2 petak</id>
+    </Key>
+	
+	<!-- construction -->
+    <Key Key="tech_name_construction">
+      <en>Construction</en>
+      <id>Konstruksi</id>
+    </Key>
+    <Key Key="tech_desc_construction">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_construction">
+      <en>[]Pasture +4 Production/Turn[]-25% Build Cost</en>
+      <id>[]Peternakan +4 Produksi/Giliran[]-25% Biaya Pembangunan</id>
+    </Key>
+	
+	
+	<!-- stockpile -->
+    <Key Key="tech_name_stockpile">
+      <en>Stockpile</en>
+      <id>Persediaan</id>
+    </Key>
+    <Key Key="tech_desc_stockpile">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_stockpile">
+      <en>[]Granary +1 Maximum Population[]-33% Population Growth Cost</en>
+      <id>[]Lumbung +1 Populasi Maksimum[]-33% Biaya Pertumbuhan Populasi</id>
+    </Key>
+	
+	<!-- hinduism -->
+    <Key Key="tech_name_hinduism">
+      <en>Hinduism</en>
+      <id>Hinduisme</id>
+    </Key>
+    <Key Key="tech_desc_hinduism">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_hinduism">
+      <en>[]Temple +2 Knowledge/Turn for each House[]-25% Technology Research Cost</en>
+      <id>[]Candi +2 Pengetahuan/Giliran untuk setiap Rumah[]-25% Biaya Riset Teknologi</id>
+    </Key>
+	
+	<!-- cavalry -->
+    <Key Key="tech_name_cavalry">
+      <en>Cavalry</en>
+      <id>Kavaleri</id>
+    </Key>
+    <Key Key="tech_desc_cavalry">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_cavalry">
+      <en>[]Barracks +4 Military/Turn for each Pasture[]+25% Military Combat Strength</en>
+      <id>[]Barak +4 Militer/Giliran untuk setiap Peternakan[]+25% Kekuatan Tempur Militer</id>
+    </Key>
+	
+	<!-- architecture -->
+    <Key Key="tech_name_architecture">
+      <en>Architecture</en>
+      <id>Arsitektur</id>
+    </Key>
+    <Key Key="tech_desc_architecture">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_architecture">
+      <en>[]Brickkiln +2 Production/Turn and +2 Wealth/Turn[]-33% Build Time</en>
+      <id>[]Tukang Bata +2 Produksi/Giliran dan +2 Kekayaan/Giliran[]-33% Waktu Pembangunan</id>
+    </Key>
+	
+	
+	<!-- seaport -->
+    <Key Key="tech_name_seaport">
+      <en>Sea Port</en>
+      <id>Bandar</id>
+    </Key>
+    <Key Key="tech_desc_seaport">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_seaport">
+      <en>[]Harbor +4 Wealth/Turn for each Market[]+25% Resource from Trading</en>
+      <id>[]Pelabuhan +4 Kekayaan/Giliran untuk setiap Pasar[]+25% Sumber Daya dari Perdagangan</id>
+    </Key>
+	
+	<!-- blacksmith -->
+    <Key Key="tech_name_blacksmith">
+      <en>Blacksmith</en>
+      <id>Pandai Besi</id>
+    </Key>
+    <Key Key="tech_desc_blacksmith">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_blacksmith">
+      <en>[]Mine +2 Production/Turn for each Cliff[]+25% Prodcution Surplus</en>
+      <id>[]Tambang +2 Produksi/Giliran untuk setiap Tebing[]+25% Surplus Produksi</id>
+    </Key>
+	
+	<!-- castesystem -->
+    <Key Key="tech_name_castesystem">
+      <en>Caste System</en>
+      <id>Sistem Kasta</id>
+    </Key>
+    <Key Key="tech_desc_castesystem">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_castesystem">
+      <en>[]Temple +2 Wealth/Turn for each House[]+25% Wealth Surplus</en>
+      <id>[]Candi +2 Kekayaan/Giliran untuk setiap Rumah[]+25% Surplus Kekayaan</id>
+    </Key>
+	
+	<!-- javajunk -->
+    <Key Key="tech_name_javajunk">
+      <en>Java Junk</en>
+      <id>Jung Jawa</id>
+    </Key>
+    <Key Key="tech_desc_javajunk">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_javajunk">
+      <en>[]Harbor +1 Maximum Fleet[]-33% Naval Expedition Time</en>
+      <id>[]Pelabuhan +1 Armada Maksimum[]-33% Waktu Ekspedisi Maritim</id>
+    </Key>
+	
+	<!-- krisdagger -->
+    <Key Key="tech_name_krisdagger">
+      <en>Kris Dagger</en>
+      <id>Belati Keris</id>
+    </Key>
+    <Key Key="tech_desc_krisdagger">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_krisdagger">
+      <en>[]Barracks +6 Military/Turn[]+25% Military Surplus</en>
+      <id>[]Barak +6 Militer/Giliran[]+25% Surplus Militer</id>
+    </Key>
+	
+	<!-- mitrekasatata -->
+    <Key Key="tech_name_mitrekasatata">
+      <en>Mitreka Satata</en>
+      <id>Mitreka Satata</id>
+    </Key>
+    <Key Key="tech_desc_mitrekasatata">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_mitrekasatata">
+      <en>[]-50% Diplomacy Cost</en>
+      <id>[]-50% Biaya Diplomasi</id>
+    </Key>
+	
+	<!-- bhayangkara -->
+    <Key Key="tech_name_bhayangkara">
+      <en>Bhayangkara</en>
+      <id>Bhayangkara</id>
+    </Key>
+    <Key Key="tech_desc_bhayangkara">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_bhayangkara">
+      <en>[]+50% Military Combat Strength</en>
+      <id>[]+50% Kekuatan Tempur Militer</id>
+    </Key>
+	
+	<!-- nagarakretagama -->
+    <Key Key="tech_name_nagarakretagama">
+      <en>Nagarakretagama</en>
+      <id>Nagarakretagama</id>
+    </Key>
+    <Key Key="tech_desc_nagarakretagama">
+      <en></en>
+      <id></id>
+    </Key>
+    <Key Key="tech_effect_nagarakretagama">
+      <en>[]Unlock Monument</en>
+      <id>[]Membuka Monumen</id>
+    </Key>
+	
+  </Keys>
+</DataLanguage>

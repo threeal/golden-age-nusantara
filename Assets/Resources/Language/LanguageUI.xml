@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DataLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+	<!-- menu -->
+    <Key Key="ui_newgame">
+      <en>New Game</en>
+      <id>Mulai Baru</id>
+    </Key>
+    <Key Key="ui_continue">
+      <en>Continue</en>
+      <id>Lanjutkan</id>
+    </Key>
+    <Key Key="ui_exit">
+      <en>Exit</en>
+      <id>Keluar</id>
+    </Key>
+    <Key Key="ui_loading">
+      <en>Loading</en>
+      <id>Memuat</id>
+    </Key>
+	
+	<!-- option -->
+    <Key Key="ui_option">
+      <en>Setting</en>
+      <id>Pengaturan</id>
+    </Key>
+    <Key Key="ui_help">
+      <en>How To Play</en>
+      <id>Cara Main</id>
+    </Key>
+    <Key Key="ui_credit">
+      <en>About</en>
+      <id>Tentang</id>
+    </Key>
+	
+	
+    <Key Key="ui_graphic">
+      <en>Graphic</en>
+      <id>Grafis</id>
+    </Key>
+    <Key Key="ui_graphic_0">
+      <en>Potato</en>
+      <id>Kentang</id>
+    </Key>
+    <Key Key="ui_graphic_1">
+      <en>Low</en>
+      <id>Rendah</id>
+    </Key>
+    <Key Key="ui_graphic_2">
+      <en>Medium</en>
+      <id>Sedang</id>
+    </Key>
+    <Key Key="ui_graphic_3">
+      <en>High</en>
+      <id>Tinggi</id>
+    </Key>
+    <Key Key="ui_graphic_4">
+      <en>Ultra</en>
+      <id>Ultra</id>
+    </Key>
+    <Key Key="ui_music">
+      <en>Music</en>
+      <id>Musik</id>
+    </Key>
+    <Key Key="ui_sound">
+      <en>Sound</en>
+      <id>Suara</id>
+    </Key>
+	
+	<!-- button -->
+    <Key Key="ui_ok">
+      <en>Ok</en>
+      <id>Ok</id>
+    </Key>
+    <Key Key="ui_info">
+      <en>Info</en>
+      <id>Info</id>
+    </Key>
+    <Key Key="ui_work">
+      <en>Work</en>
+      <id>Kerja</id>
+    </Key>
+    <Key Key="ui_sleep">
+      <en>Sleep</en>
+      <id>Berhenti</id>
+    </Key>
+    <Key Key="ui_stop">
+      <en>Stop</en>
+      <id>Berhenti</id>
+    </Key>
+    <Key Key="ui_wait">
+      <en>Wait</en>
+      <id>Tunggu</id>
+    </Key>
+    <Key Key="ui_attack">
+      <en>Attack</en>
+      <id>Serang</id>
+    </Key>
+    <Key Key="ui_later">
+      <en>Later</en>
+      <id>Nanti</id>
+    </Key>
+	
+    <Key Key="ui_build_time">
+      <en>Build[]([built_time] Turns)</en>
+      <id>Bangun[]([built_time] Giliran)</id>
+    </Key>
+    <Key Key="ui_demolish">
+      <en>Demolish</en>
+      <id>Runtuhkan</id>
+    </Key>
+    <Key Key="ui_demolish_time">
+      <en>Demolish[]([clear_time] Turns)</en>
+      <id>Runtuhkan[]([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="ui_explore">
+      <en>Explore</en>
+      <id>Jelajah</id>
+    </Key>
+    <Key Key="ui_explore_time">
+      <en>Explore[]([clear_time] Turns)</en>
+      <id>Jelajah[]([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="ui_remove">
+      <en>Remove</en>
+      <id>Tebang</id>
+    </Key>
+    <Key Key="ui_slaughter">
+      <en>Slaughter</en>
+      <id>Sembelih</id>
+    </Key>
+    <Key Key="ui_hammer">
+      <en>Build</en>
+      <id>Bangun</id>
+    </Key>
+    <Key Key="ui_wonders">
+      <en>Wonders</en>
+      <id>Keajaiban</id>
+    </Key>
+    <Key Key="ui_remove_time">
+      <en>Remove[]([clear_time] Turns)</en>
+      <id>Tebang[]([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="ui_slaughter_time">
+      <en>Slaughter[]([clear_time] Turns)</en>
+      <id>Sembelih[]([clear_time] Giliran)</id>
+    </Key>
+	
+    <Key Key="ui_researched">
+      <en>Researched</en>
+      <id>Telah Diriset</id>
+    </Key>
+    <Key Key="ui_research_time">
+      <en>Research[]([value] Knowledge)</en>
+      <id>Riset[]([value] Pengetahuan)</id>
+    </Key>
+	
+    <Key Key="ui_need_population">
+      <en>Need Population</en>
+      <id>Butuh Populasi</id>
+    </Key>
+    <Key Key="ui_need_culture">
+      <en>Need[][value] Knowledge</en>
+      <id>Butuh[][value] Pengetahuan</id>
+    </Key>
+    <Key Key="ui_locked">
+      <en>Locked</en>
+      <id>Terkunci</id>
+    </Key>
+	
+	<!-- Game Over -->
+    <Key Key="ui_gameover">
+      <en>Game Over</en>
+      <id>Permainan Berakhir</id>
+    </Key>
+    <Key Key="ui_gameover_desc">
+      <en>Overthrow Kediri : [b][attackkediri][/b][]Drive Out Mongol Armies : [b][attackmongol][/b][]Maritime City : [b][buildharbor][/b][]Kuti's Rebellion : [b][attackkuti][/b][]Queen of Wisdom : [b][buildtemple][/b][]Palapa Oath : [b][palapaoath][/b][]Bubat Tragedy : [b][bubattragedy][/b][]Story of Our Ancestor : [b][buildwonders][/b][]Paregreg War : [b][paregregwar][/b][][b]Total Score : [val][/b]</en>
+      <id>Menjatuhkan Kediri : [b][attackkediri][/b][]Usir Pasukan Mongol : [b][attackmongol][/b][]Kota Maritim : [b][buildharbor][/b][]Pemberontakan Kuti : [b][attackkuti][/b][]Ratu Kebijaksanaan : [b][buildtemple][/b][]Sumpah Palapa : [b][palapaoath][/b][]Tragedi Bubat : [b][bubattragedy][/b][]Kisah Leluhur Kita : [b][buildwonders][/b][]Perang Paregreg : [b][paregregwar][/b][][b]Skor Total : [val][/b]</id>
+    </Key>
+    <Key Key="ui_gameover_continue">
+      <en>Continue</en>
+      <id>Lanjutkan</id>
+    </Key>
+    <Key Key="ui_gameover_endgame">
+      <en>End Game</en>
+      <id>Akhiri</id>
+    </Key>
+	
+	<!-- diplomacy -->
+    <Key Key="ui_alliance">
+      <en>Alliance</en>
+      <id>Bersekutu</id>
+    </Key>
+    <Key Key="ui_invade">
+      <en>Invade</en>
+      <id>Serbu</id>
+    </Key>
+    <Key Key="ui_trade">
+      <en>Trade</en>
+      <id>Dagang</id>
+    </Key>
+    <Key Key="ui_sendgift">
+      <en>Send Gift</en>
+      <id>Kirim Hadiah</id>
+    </Key>
+    <Key Key="ui_raid">
+      <en>Raid</en>
+      <id>Jarah</id>
+    </Key>
+    <Key Key="ui_break">
+      <en>Break Alliance</en>
+      <id>Bubar Persekutuan</id>
+    </Key>
+	
+	<!-- end turn -->
+    <Key Key="ui_endtun1">
+      <en>[name] - Majapahit Settlement[]Turns [time]</en>
+      <id>[name] - Pemukiman Majapahit[]Giliran ke [time]</id>
+    </Key>
+    <Key Key="ui_endtun2">
+      <en>[name] - Majapahit Empire[]Turns [time]</en>
+      <id>[name] - Kemaharajaan Majapahit[]Giliran ke [time]</id>
+    </Key>
+    <Key Key="ui_reign_settlement">
+      <en>Raden Wijaya</en>
+      <id>Raden Wijaya</id>
+    </Key>
+    <Key Key="ui_reign_radenwijaya">
+      <en>King Kertarajasa</en>
+      <id>Raja Kertarajasa</id>
+    </Key>
+    <Key Key="ui_reign_jayanegara">
+      <en>King Jayanegara</en>
+      <id>Raja Jayanegara</id>
+    </Key>
+    <Key Key="ui_reign_dyahgitarja">
+      <en>Queen Tribhuwana</en>
+      <id>Ratu Tribhuwana</id>
+    </Key>
+    <Key Key="ui_reign_hayamwuruk">
+      <en>King Rajasanagara</en>
+      <id>Raja Rajasanagara</id>
+    </Key>
+    <Key Key="ui_reign_wikramawardhana">
+      <en>King Wikramawardhana</en>
+      <id>Raja Wikramawardhana</id>
+    </Key>	
+	
+  </Keys>
+</DataLanguage>

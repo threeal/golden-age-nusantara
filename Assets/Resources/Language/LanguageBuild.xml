@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DataLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+	
+	<!-- description -->
+    <Key Key="build_desc_build">
+      <en>[desc][][need][effect]</en>
+      <id>[desc][][need][effect]</id>
+    </Key>
+    <Key Key="build_desc_info">
+      <en>[desc][][effect]</en>
+      <id>[desc][][effect]</id>
+    </Key>
+    <Key Key="build_desc_clear">
+      <en>Destroying this building will remove[][effect]</en>
+      <id>Meruntuhkan bangunan ini akan menghilangkan[][effect]</id>
+    </Key>
+    <Key Key="build_desc_clear_explore">
+      <en>Exploring this area will reveal all unexplored area in [perbuilding_range] range[effect]</en>
+      <id>Menjelajahi wilayah ini akan membuka semua wilayah yang berjarak [perbuilding_range] petak[effect]</id>
+    </Key>
+    <Key Key="build_desc_clear_ruin">
+      <en>Exploring this ruins will gives[][effect]</en>
+      <id>Menjelajahi reruntuhan ini akan memberikan[][effect]</id>
+    </Key>
+    <Key Key="build_desc_clear_forest">
+      <en>Removing this forest will gives[][effect]</en>
+      <id>Menebang hutan ini akan memberikan[][effect]</id>
+    </Key>
+    <Key Key="build_desc_clear_cattle">
+      <en>Slaughtering this Cattle will gives[][effect]</en>
+      <id>Menyembelih Ternak ini akan memberikan[][effect]</id>
+    </Key>
+	
+    <Key Key="build_need_default">
+      <en>[built_cost]</en>
+      <id>[built_cost]</id>
+    </Key>
+	
+	<!-- explore -->
+    <Key Key="build_name_explore">
+      <en>Unexplored Area</en>
+      <id>Wilayah yang belum Dijelajahi</id>
+    </Key>
+    <Key Key="build_clear_explore">
+      <en>Exploring Area ([clear_time] Turns)</en>
+      <id>Menjelajah Wilayah ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_explore">
+      <en>the uncharted wildlands waiting to be explored</en>
+      <id>Jauh diluar sana banyak sekali tempat yang belum diketahui oleh leluhur kita</id>
+    </Key>
+    <Key Key="build_effect_explore">
+      <en>[clear_food]</en>
+      <id>[clear_food]</id>
+    </Key>
+	
+	<!-- ruin -->
+    <Key Key="build_name_ruin">
+      <en>Ancient Ruins</en>
+      <id>Reruntuhan Kuno</id>
+    </Key>
+    <Key Key="build_clear_ruin">
+      <en>Exploring Ruins ([clear_time] Turns)</en>
+      <id>Menjelajah Reruntuhan ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_ruin">
+      <en>The ancient ruins of a long lost civilization. Beneath it lies hidden treasures and ancient knowledge that might boost your civilization development, but it might also contains dangers buried inside</en>
+      <id>Reruntuhan dari Peradaban terdahulu, di dalamnya mungkin tersimpan harta dan kekayaan, atau bahaya yang mematikan</id>
+    </Key>
+    <Key Key="build_effect_ruin">
+      <en>[clear_wealth][clear_culture]</en>
+      <id>[clear_wealth][clear_culture]</id>
+    </Key>
+	
+	<!-- forest -->
+    <Key Key="build_name_forest">
+      <en>Forest</en>
+      <id>Hutan</id>
+    </Key>
+    <Key Key="build_clear_forest">
+      <en>Clear Forest ([clear_time] Turns)</en>
+      <id>Menebang Hutan ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_forest">
+      <en>The natural habitat to various plants and animals</en>
+      <id>Habital alami berbagai satwa dan fauna</id>
+    </Key>
+    <Key Key="build_effect_forest">
+      <en>[clear_production]</en>
+      <id>[clear_production]</id>
+    </Key>
+	
+	<!-- cattle -->
+    <Key Key="build_name_cattle">
+      <en>Cattle</en>
+      <id>Ternak</id>
+    </Key>
+    <Key Key="build_clear_cattle">
+      <en>Slaughter Cattle ([clear_time] Turns)</en>
+      <id>Sembelih Ternak ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_cattle">
+      <en>blabla</en>
+      <id>blabla</id>
+    </Key>
+    <Key Key="build_effect_cattle">
+      <en>[clear_food]</en>
+      <id>[clear_food]</id>
+    </Key>
+	
+	<!-- Grass -->
+    <Key Key="build_name_grass">
+      <en>Grassland</en>
+      <id>Padang Rumput</id>
+    </Key>
+    <Key Key="build_desc_grass">
+      <en>The land is strong enough to hold a structure above it</en>
+      <id>Tanahnya cukup kuat untuk menahan bangunan diatasnya</id>
+    </Key>
+	
+	<!-- river -->
+    <Key Key="build_name_river">
+      <en>River</en>
+      <id>Sungai</id>
+    </Key>
+    <Key Key="build_desc_river">
+      <en>The vein of almost all civilization, we can build farms near the river</en>
+      <id>Akar dari hampir semua peradaban, kita dapat mendirikan sawah di sekitarnya</id>
+    </Key>
+	
+	<!-- sea -->
+    <Key Key="build_name_sea">
+      <en>Sea</en>
+      <id>Laut</id>
+    </Key>
+    <Key Key="build_desc_sea">
+      <en>The backbone of our civilization, the sea is our second method of reliable transportation</en>
+      <id>Tulang punggung peradaban, transportasi laut merupakan cara yang aman selain melalui darat</id>
+    </Key>
+	
+	<!-- hill -->
+    <Key Key="build_name_hill">
+      <en>Cliff</en>
+      <id>Tebing</id>
+    </Key>
+    <Key Key="build_desc_hill">
+      <en>The natural land formations that might contains valuable inside</en>
+      <id>Formasi alami tanah yang mungkin mengandung logam mulia</id>
+    </Key>
+	
+	<!-- palace -->
+    <Key Key="build_name_palace">
+      <en>Palace</en>
+      <id>Keraton</id>
+    </Key>
+    <Key Key="build_desc_palace">
+      <en>The heart of our kingdom, every commands are issued from there</en>
+      <id>Jantung dari kerajaan kita, setiap perintah turun dari Keraton</id>
+    </Key>
+    <Key Key="build_effect_palace">
+      <en></en>
+      <id></id>
+    </Key>
+		
+	<!-- house -->
+    <Key Key="build_name_house">
+      <en>House</en>
+      <id>Rumah</id>
+    </Key>
+    <Key Key="build_built_house">
+      <en>Build House ([built_time] Turns)</en>
+      <id>Membangun Rumah ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_house">
+      <en>Demolish House ([clear_time] Turns)</en>
+      <id>Meruntuhkan Rumah ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_house">
+      <en>A house complex to shelter few families, add max population</en>
+      <id>kompleks rumah yang dapat menampung beberapa keluarga, menambah maksimum populasi</id>
+    </Key>
+    <Key Key="build_effect_house">
+      <en>[build_upkeep][max_population][generate_wealth]</en>
+      <id>[build_upkeep][max_population][generate_wealth]</id>
+    </Key>
+	
+	<!-- farm -->
+    <Key Key="build_name_farm">
+      <en>Rice Field</en>
+      <id>Sawah</id>
+    </Key>
+    <Key Key="build_built_farm">
+      <en>Build Rice Field ([built_time] Turns)</en>
+      <id>Membangun Sawah ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_farm">
+      <en>Demolish Rice Field ([clear_time] Turns)</en>
+      <id>Meruntuhkan Sawah ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_farm">
+      <en>Our major food productions building, blessed by the river</en>
+      <id>Sumber utama makanan kita, yang dapat berjalan baik berkat sungai disekitar</id>
+    </Key>
+    <Key Key="build_need_farm">
+      <en>[]Must be built near freshwater source[built_cost]</en>
+      <id>[]Harus dibangun di dekat sumber mata air[built_cost]</id>
+    </Key>
+    <Key Key="build_effect_farm">
+      <en>[build_upkeep][generate_food][perbuilding_food][generate_wealth]</en>
+      <id>[build_upkeep][generate_food][perbuilding_food][generate_wealth]</id>
+    </Key>
+	
+	<!-- pasture -->
+    <Key Key="build_name_pasture">
+      <en>Pasture</en>
+      <id>Peternakan</id>
+    </Key>
+    <Key Key="build_built_pasture">
+      <en>Build Pasture ([built_time] Turns)</en>
+      <id>Membangun Peternakan ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_pasture">
+      <en>Demolish Pasture ([clear_time] Turns)</en>
+      <id>Meruntuhkan Peternakan ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_pasture">
+      <en>blabla</en>
+      <id>blabla</id>
+    </Key>
+    <Key Key="build_need_pasture">
+      <en>[]Must be built on Cattle[built_cost]</en>
+      <id>[]Harus dibangun di atas Ternak[built_cost]</id>
+    </Key>
+    <Key Key="build_effect_pasture">
+      <en>[build_upkeep][generate_food][generate_production]</en>
+      <id>[build_upkeep][generate_food][generate_production]</id>
+    </Key>
+	
+	<!-- granary -->
+    <Key Key="build_name_granary">
+      <en>Granary</en>
+      <id>Lumbung</id>
+    </Key>
+    <Key Key="build_built_granary">
+      <en>Build Granary ([built_time] Turns)</en>
+      <id>Membangun Lumbung ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_granary">
+      <en>Demolish Granary ([clear_time] Turns)</en>
+      <id>Meruntuhkan Lumbung ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_granary">
+      <en>blablabla blablabla blablabla blablabla blablabla blablabla blablabla</en>
+      <id>blablabla blablabla blablabla blablabla blablabla blablabla blablabla</id>
+    </Key>
+    <Key Key="build_need_granary">
+      <en>[]Must be built near 2 Rice Field[built_cost]</en>
+      <id>[]Harus dibangun di dekat 2 Sawah[built_cost]</id>
+    </Key>
+    <Key Key="build_effect_granary">
+      <en>[build_upkeep][perbuilding_food][max_population]</en>
+      <id>[build_upkeep][perbuilding_food][max_population]</id>
+    </Key>
+	
+	<!-- woodcut -->
+    <Key Key="build_name_woodcut">
+      <en>Lumberyard</en>
+      <id>Tukang Kayu</id>
+    </Key>
+    <Key Key="build_built_woodcut">
+      <en>Build Lumberyard ([built_time] Turns)</en>
+      <id>Membangun Tukang Kayu ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_woodcut">
+      <en>Demolish Lumberyard ([clear_time] Turns)</en>
+      <id>Meruntuhkan Tukang Kayu ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_woodcut">
+      <en>Increase our productions by chopping the woods from the forest</en>
+      <id>Menambah produksi kita dengan memproduksi kayu dari hutan sekitar</id>
+    </Key>
+    <Key Key="build_need_woodcut">
+      <en>[]Must be built near Forest[built_cost]</en>
+      <id>[]Harus dibangun di dekat Hutan[built_cost]</id>
+    </Key>
+    <Key Key="build_effect_woodcut">
+      <en>[build_upkeep][perbuilding_production][generate_production]</en>
+      <id>[build_upkeep][perbuilding_production][generate_production]</id>
+    </Key>
+	
+	<!-- brickkiln -->
+    <Key Key="build_name_brickkiln">
+      <en>Brickkiln</en>
+      <id>Tukang Bata</id>
+    </Key>
+    <Key Key="build_built_brickkiln">
+      <en>Build Brickkiln ([built_time] Turns)</en>
+      <id>Membangun Tukang Bata ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_brickkiln">
+      <en>Demolish Brickkiln ([clear_time] Turns)</en>
+      <id>Meruntuhkan Tukang Bata ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_brickkiln">
+      <en>Increase our productions through producing bricks to build our civilization</en>
+      <id>Menambah produksi kita dengan membuat bata untuk membangun peradaban kita</id>
+    </Key>
+    <Key Key="build_effect_brickkiln">
+      <en>[build_upkeep][generate_production][generate_culture][generate_wealth]</en>
+      <id>[build_upkeep][generate_production][generate_culture][generate_wealth]</id>
+    </Key>
+	
+	<!-- mine -->
+    <Key Key="build_name_mine">
+      <en>Mine</en>
+      <id>Tambang</id>
+    </Key>
+    <Key Key="build_built_mine">
+      <en>Build Mine ([built_time] Turns)</en>
+      <id>Membangun Tambang ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_mine">
+      <en>Demolish Mine ([clear_time] Turns)</en>
+      <id>Meruntuhkan Tambang ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_mine">
+      <en>Mines valuable resources from nearby cliffs, increase production rates</en>
+      <id>Menambang logam mulia dari tebing terdekat, menambah produksi</id>
+    </Key>
+    <Key Key="build_need_mine">
+      <en>[]Must be built near Cliff[built_cost]</en>
+      <id>[]Harus dibangun di dekat Tebing[built_cost]</id>
+    </Key>
+    <Key Key="build_effect_mine">
+      <en>[build_upkeep][generate_production][generate_military][perbuilding_production]</en>
+      <id>[build_upkeep][generate_production][generate_military][perbuilding_production]</id>
+    </Key>
+	
+	<!-- market -->
+    <Key Key="build_name_market">
+      <en>Market</en>
+      <id>Pasar</id>
+    </Key>
+    <Key Key="build_built_market">
+      <en>Build Market ([built_time] Turns)</en>
+      <id>Membangun Pasar ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_market">
+      <en>Demolish Market ([clear_time] Turns)</en>
+      <id>Meruntuhkan Pasar ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_market">
+      <en>The market is the center of our economy growth by producing wealth for our civilization</en>
+      <id>Pasar merupakan sentral pertumbuhan ekonomi kita, memberikan kita kekayaan</id>
+    </Key>
+    <Key Key="build_effect_market">
+      <en>[build_upkeep][generate_wealth][perbuilding_wealth]</en>
+      <id>[build_upkeep][generate_wealth][perbuilding_wealth]</id>
+    </Key>
+	
+	<!-- temple -->
+    <Key Key="build_name_temple">
+      <en>Temple</en>
+      <id>Candi</id>
+    </Key>
+    <Key Key="build_built_temple">
+      <en>Build Temple ([built_time] Turns)</en>
+      <id>Membangun Candi ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_temple">
+      <en>Demolish Temple ([clear_time] Turns)</en>
+      <id>Meruntuhkan Candi ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_temple">
+      <en>The temple are sacred to our beliefs, it will increase our cultural beliefs</en>
+      <id>The temple are sacred to our beliefs, it will increase our cultural beliefs</id>
+    </Key>
+    <Key Key="build_effect_temple">
+      <en>[build_upkeep][generate_culture][perbuilding_culture][perbuilding_wealth]</en>
+      <id>[build_upkeep][generate_culture][perbuilding_culture][perbuilding_wealth]</id>
+    </Key>
+	
+	<!-- barracks -->
+    <Key Key="build_name_barracks">
+      <en>Barracks</en>
+      <id>Barak</id>
+    </Key>
+    <Key Key="build_built_barracks">
+      <en>Build Barracks ([built_time] Turns)</en>
+      <id>Membangun Barak ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_barracks">
+      <en>Demolish Barracks ([clear_time] Turns)</en>
+      <id>Meruntuhkan Barak ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_barracks">
+      <en>The barracks train our cunning and fearsome warriors for our conquest</en>
+      <id>Barak melatih kesatria kita untuk penaklukan</id>
+    </Key>
+    <Key Key="build_effect_barracks">
+      <en>[build_upkeep][generate_military][perbuilding_military]</en>
+      <id>[build_upkeep][generate_military][perbuilding_military]</id>
+    </Key>
+	
+	<!-- harbor -->
+    <Key Key="build_name_harbor">
+      <en>Harbor</en>
+      <id>Pelabuhan</id>
+    </Key>
+    <Key Key="build_built_harbor">
+      <en>Build Harbor ([built_time] Turns)</en>
+      <id>Membangun Pelabuhan ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_clear_harbor">
+      <en>Demolish Harbor ([clear_time] Turns)</en>
+      <id>Meruntuhkan Pelabuhan ([clear_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_harbor">
+      <en>The harbor is our gateway to the sea, produces food and wealth for our civilization</en>
+      <id>Pelabuhan adalah gerbang kita untuk mengarungi laut,menghasilkan makanan dan kekayaan untuk kerajaan kita</id>
+    </Key>
+    <Key Key="build_need_harbor">
+      <en>[]Must be built on Sea[built_cost]</en>
+      <id>[]Harus dibangun di Laut[built_cost]</id>
+    </Key>
+    <Key Key="build_effect_harbor">
+      <en>[build_upkeep][max_fleet][perbuilding_wealth][]-15 Production/Turn for building Fleet</en>
+      <id>[build_upkeep][max_fleet][perbuilding_wealth][]-15 Produksi/Giliran untuk membangun Armada</id>
+    </Key>
+	
+	<!-- wonders -->
+    <Key Key="build_name_wonders">
+      <en>Wonders</en>
+      <id>Keajaiban</id>
+    </Key>
+    <Key Key="build_built_wonders">
+      <en>Build Wonders ([built_time] Turns)</en>
+      <id>Membangun Keajaiban ([built_time] Giliran)</id>
+    </Key>
+    <Key Key="build_desc_wonders">
+      <en>blablabla</en>
+      <id>blablabla</id>
+    </Key>
+    <Key Key="build_need_wonders">
+      <en>[]Must be built in Temples[built_cost]</en>
+      <id>[]Harus dibangun di Candi[built_cost]</id>
+    </Key>
+    <Key Key="build_effect_wonders">
+      <en>[build_upkeep]</en>
+      <id>[build_upkeep]</id>
+    </Key>
+	
+	<!-- effect -->	
+	
+    <Key Key="build_effect_cost">
+      <en>[]-[val] Production/Turn Build Cost</en>
+      <id>[]-[val] Produksi/Giliran Biaya Pembangunan</id>
+    </Key>
+    <Key Key="build_effect_upkeep">
+      <en>[]-[val] Wealth/Turn Upkeep Cost</en>
+      <id>[]-[val] Kekayaan/Giliran Biaya Pemeliharaan</id>
+    </Key>
+	
+    <Key Key="build_effect_max_population">
+      <en>[]+[val] Maximum Population</en>
+      <id>[]+[val] Populasi Maksimum</id>
+    </Key>
+    <Key Key="build_effect_max_Fleet">
+      <en>[]+[val] Maximum Fleet</en>
+      <id>[]+[val] Armada Maksimum</id>
+    </Key>
+	
+    <Key Key="build_effect_generate_food">
+      <en>[]+[val] Food/Turn</en>
+      <id>[]+[val] Makanan/Giliran</id>
+    </Key>
+    <Key Key="build_effect_generate_production">
+      <en>[]+[val] Production/Turn</en>
+      <id>[]+[val] Produksi/Giliran</id>
+    </Key>
+    <Key Key="build_effect_generate_wealth">
+      <en>[]+[val] Wealth/Turn</en>
+      <id>[]+[val] Kekayaan/Giliran</id>
+    </Key>
+    <Key Key="build_effect_generate_culture">
+      <en>[]+[val] Knowledge/Turn</en>
+      <id>[]+[val] Pengetahuan/Giliran</id>
+    </Key>
+    <Key Key="build_effect_generate_military">
+      <en>[]+[val] Military/Turn</en>
+      <id>[]+[val] Militer/Giliran</id>
+    </Key>
+	
+    <Key Key="build_effect_clear_food">
+      <en>[]+[val] Food/Turn</en>
+      <id>[]+[val] Makanan/Giliran</id>
+    </Key>
+    <Key Key="build_effect_clear_production">
+      <en>[]+[val] Production/Turn</en>
+      <id>[]+[val] Produksi/Giliran</id>
+    </Key>
+    <Key Key="build_effect_clear_wealth">
+      <en>[]+[val] Wealth/Turn</en>
+      <id>[]+[val] Kekayaan/Giliran</id>
+    </Key>
+    <Key Key="build_effect_clear_culture">
+      <en>[]+[val] Knowledge/Turn</en>
+      <id>[]+[val] Pengetahuan/Giliran</id>
+    </Key>
+    <Key Key="build_effect_clear_military">
+      <en>[]+[val] Military/Turn</en>
+      <id>[]+[val] Militer/Giliran</id>
+    </Key>
+	
+    <Key Key="build_effect_perbuilding_food">
+      <en>[]+[val] Food/Turn for each [name]</en>
+      <id>[]+[val] Makanan/Giliran untuk setiap [name]</id>
+    </Key>
+    <Key Key="build_effect_perbuilding_production">
+      <en>[]+[val] Production/Turn for each [name]</en>
+      <id>[]+[val] Produksi/Giliran untuk setiap [name]</id>
+    </Key>
+    <Key Key="build_effect_perbuilding_wealth">
+      <en>[]+[val] Wealth/Turn for each [name]</en>
+      <id>[]+[val] Kekayaan/Giliran untuk setiap [name]</id>
+    </Key>
+    <Key Key="build_effect_perbuilding_culture">
+      <en>[]+[val] Knowledge/Turn for each [name]</en>
+      <id>[]+[val] Pengetahuan/Giliran untuk setiap [name]</id>
+    </Key>
+    <Key Key="build_effect_perbuilding_military">
+      <en>[]+[val] Military/Turn for each [name]</en>
+      <id>[]+[val] Militer/Giliran untuk setiap [name]</id>
+    </Key>
+	
+  </Keys>
+</DataLanguage>

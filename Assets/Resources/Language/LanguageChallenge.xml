@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DataLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+	<!-- prologue -->
+    <Key Key="prologue_1">
+      <en>Nusantara, Years 1275 AD</en>
+      <id>Nusantara, Tahun 1275 M</id>
+    </Key>
+    <Key Key="prologue_2">
+      <en>Singhasari is entering their Golden Age</en>
+      <id>Singhasari sedang di masa kejayaannya..</id>
+    </Key>
+    <Key Key="prologue_3">
+      <en>By the command of the ambitious lord, Kertanegara, Singhasari launched a series of maritime expedition to the remains of Srivijaya</en>
+      <id>Atas perintah raja yang ambisius, Kertanegara. Singhasari meluncurkan serangkaian ekspedisi maritim ke sisa sisa kerajaan sriwijaya</id>
+    </Key>
+    <Key Key="prologue_4">
+      <en>The expedition succeds, Singhasari earned their new territories from Pahang till Seram</en>
+      <id>Ekspedisi tersebut berhasil memperluas wilayah kekuasaan Singhasari dari Pahang hingga Seram</id>
+    </Key>
+    <Key Key="prologue_5">
+      <en>But, everything must come to an end</en>
+      <id>Namun masa kejayaan tersebut tidak berlangsung lama</id>
+    </Key>
+    <Key Key="prologue_6">
+      <en>In 1280 M, Mongol Envoys visited Jawadwipa</en>
+      <id>Tahun 1280 M, Utusan Mongol datang ke Jawadwipa.</id>
+    </Key>
+    <Key Key="prologue_7">
+      <en>He asked Singhasari to bow and give annual tribute to the Mongols</en>
+      <id>Ia meminta agar Singhasari tunduk dan memberikan upeti kepada Kekaisaran Mongol</id>
+    </Key>
+    <Key Key="prologue_8">
+      <en>But, the King rejected, cuts the envoy's ears, then send him back to where he belongs</en>
+      <id>Namun Sang Raja Ambisius menolak dan menyiksa Utusan Mongol tersebut sebelum ia kembali ke tempat asalnya</id>
+    </Key>
+    <Key Key="prologue_9">
+      <en>Seeing what Singhasari kingdom did to their envoys, The Mongols angers rose. They sent thousands of battleships towards Java</en>
+      <id>Atas tindakannya, Kekaisaran Mongol membalas dengan mengirim 1000 kapal perang ke Jawa</id>
+    </Key>
+    <Key Key="prologue_10">
+      <en>Meanwhile, a coupe was initiated by Kediri's king</en>
+      <id>Disamping itu tanpa sepengetahuan Kertanegara, sebuah kudeta sedang dilakukan oleh Penguasa Kediri</id>
+    </Key>
+    <Key Key="prologue_11">
+      <en>In 1292 AD, Jayakatwang, Kediri's Master, was preparing a massive armies to strike Singhasari from all directions</en>
+      <id>Tahun 1292 M, Jayakatwang, Penguasa Kediri, mempersiapkan pasukannya untuk menyerang Singhasari dari utara dan selatan</id>
+    </Key>
+    <Key Key="prologue_12">
+      <en>The Information about the attack slipped to Kertanegara's ears. He told Raden Wijaya to hold the northern fronts, but alas, his army couldnt hold the front</en>
+      <id>Mengetahui hal tersebut, Raden Wijaya diperintahkan untuk menahan serangan dari utara, namun gagal</id>
+    </Key>
+    <Key Key="prologue_13">
+      <en>Not long enough, Kertanegara was killed, Singhasari fell to the Kediri Empire</en>
+      <id>Kertanegara mati dibunuh, Singhasari telah jatuh ke tangan penguasa Kediri</id>
+    </Key>
+    <Key Key="prologue_14">
+      <en>With the help from Aria Wiraraja, Raden Wijaya escaped from the battle into the Tarik Forest, and he starts a new settlements of refugees</en>
+      <id>Atas bantuan dari Arya Wiraraja, Raden Wijaya melarikan diri ke Hutan Tarik dan membuka pemukiman baru disana</id>
+    </Key>
+	
+	<!-- challenge war -->
+    <Key Key="challenge_war_name">
+      <en>Attack [name]</en>
+      <id>Menyerang [name]</id>
+    </Key>
+    <Key Key="challenge_war_start">
+      <en>Our armies are ready to attack [name]</en>
+      <id>Pasukan kita telah siap menyerang [name]</id>
+    </Key>
+    <Key Key="challenge_war_success">
+      <en>Our armies have successfully attack [name][][val1] allies and [val2] enemies was killed in process[]</en>
+      <id>Pasukan kita telah berhasil menyerang [name][][val1] sekutu dan [val2] musuh terbunuh dalam process[]</id>
+    </Key>
+    <Key Key="challenge_war_failed">
+      <en>Our armies have failed to attack [name][][val1] allies and [val2] enemies was killed in process</en>
+      <id>Pasukan kita telah gagal menyerang [name][][val1] sekutu dan [val2] musuh terbunuh dalam process</id>
+    </Key>
+	
+	<!-- challenge rise -->
+    <Key Key="challenge_name_rise">
+      <en>The Rise of Majapahit Empire</en>
+      <id>Bangkitnya Kemaharajaan Majapahit</id>
+    </Key>
+    <Key Key="challenge_desc_rise">
+      <en>After Jayakatwang discovered a new settlement for the refugees, he tries to attack in order to end Raden Wijaya's reign. But with the advice given by Arya Wiraraja, Jayakatwang agreed to cease their attack and give some lands for Raden Wijaya and his refugees, but in one condition, that Raden Wijaya must concede defeat. Meanwhile, in Tarik forest, one of the refugees discovered a fruit thats very bitter and taste horrible. The refugees named the fruit as " Maja", and thats the story of how Majapahit ( Bitter Maja ) name was founded </en>
+      <id>Mengetahui adanya pemukiman baru, Jayakatwang mencoba mengirim pasukan untuk menyerang Raden Wijaya beserta para pengikutnya. namun atas nasihat dari Arya Wiraraja, Jayakatwang memberikan kekuasaan bagi Raden Wijaya atas hutan Tarik dengan syarat agar tunduk kepadanya. di hutan Tarik tersebut, salah satu pekerja raden wijaya menemukan buah maja yang sangat pahit yang kemudian menjadi asal usul nama Majapahit.</id>
+    </Key>
+	
+	<!-- challenge fall -->
+    <Key Key="challenge_name_fall">
+      <en>The Fall of Majapahit Empire</en>
+      <id>Jatuhnya Kemaharajaan Majapahit</id>
+    </Key>
+    <Key Key="challenge_desc_fall">
+      <en>After the death of Wikramawardhana, Majapahit began to fall. A lot of civil war happens. The attack from Demak Sultanate also weaken the reign of Majapahit. Until, in 1518 AD, Majapahit is defeated by the Demak Sultanate, which marks the end of Majapahit Empire. </en>
+      <id>Setelah kematian Wikramawardhana, Majapahit mengalamai kemunduran yang semakin pesat. berbagai perang saudara serta serangan Kesultanan Demak telah membuat Majapahit semakin melemah. hingga akhirnya pada tahun 1518 Masehi Majapahit jatuh ke tangan Kesultanan Demak dan menandakan berakhirnya masa kekuasaan Kemaharajaan Majapahit</id>
+    </Key>
+	
+	<!-- challenge radenwijaya -->
+    <Key Key="challenge_name_radenwijaya">
+      <en>Raden Wijaya Reign</en>
+      <id>Raden Wijaya Memerintah</id>
+    </Key>
+    <Key Key="challenge_name_radenwijaya_finished">
+      <en>Raden Wijaya Died</en>
+      <id>Raden Wijaya Meninggal</id>
+    </Key>
+    <Key Key="challenge_desc_radenwijaya">
+      <en>Raden Wijaya, also known as Naraya Sangramavijaya, was the first king of Majapahit. He rose to the throne in 1293 AD with the title "Kertarajasa Jayawardhana"[][]-33% Population Growth Cost</en>
+      <id>Raden Wijaya, yang juga dikenal dengan nama Naraya Sangramawijaya merupakan raja pertama Kemaharajaan Majapahit. Ia naik tahta pada tahun 1293 Masehi dengan gelar Kertarajasa Jayawardhana.[][]-33% Biaya Pertumbuhan Populasi</id>
+    </Key>
+    <Key Key="challenge_desc_radenwijaya_finished">
+      <en>Raden Wijaya has passed away in 1309 AD. Jayanegara rose to the throne</en>
+      <id>Raden Wijaya sudah sangat tua, ia tidak lagi sanggup memerintah Kemaharajaan Majapahit. namun sebagai seorang raja yang arif, ia harus tetap memerintah untuk rakyatnya. hingga akhirnya sang raja meninggal dengan tenang pada tahun 1309 Masehi. ia kemudian digantikan oleh anaknya yang bernama Jayanegara.</id>
+    </Key>
+	
+	<!-- challenge jayanegara -->
+    <Key Key="challenge_name_jayanegara">
+      <en>Jayanegara Reign</en>
+      <id>Jayanegara Memerintah</id>
+    </Key>
+    <Key Key="challenge_name_jayanegara_finished">
+      <en>Jayanegara Assassinated</en>
+      <id>Jayanegara Dibunuh</id>
+    </Key>
+    <Key Key="challenge_desc_jayanegara">
+      <en>Jayanegara rose to the throne in 1295 AD with the title of Sri Maharaja Wiralandagopala Sri Sundarapandya Dewa Adhiswara. He was known as an immoral and tyrannical king, which made him famous to be called as Kala Gemet[][]+25% Military Combat Strength</en>
+      <id>Jayanegara naik tahta pada tahun 1295 Masehi dengan gelar Sri Maharaja Wiralandagopala Sri Sundarapandya Dewa Adhiswara. Jayanegara dikenal sebagai raja yang tidak bermoral dan memiliki perilaku buruk, oleh karena itu ia dikenal juga dengan sebutan Kala Gemet.[][]+25% Kekuatan Tempur Militer</id>
+    </Key>
+    <Key Key="challenge_desc_jayanegara_finished">
+      <en>In 1328 AD, Jayanegara was assassinated by Tanca, a royal doctor. Gajah Mada immediately pursue and kill Tanca on sight. Then, Gitarja rose to the throne.</en>
+      <id>Tahun 1328 Masehi, Jayanegara mati ditangan Tanca, seorang tabib istana. Gajah Mada yang sedang menjaga Sang Raja pada saat itu langsung menikam Tanca dan membunuhnya di tempat. Sang raja kemudian digantikan oleh saudara tirinya, Dyah Gitarja.</id>
+    </Key>
+	
+	<!-- challenge dyahgitarja -->
+    <Key Key="challenge_name_dyahgitarja">
+      <en>Dyah Gitarja Reign</en>
+      <id>Dyah Gitarja Memerintah</id>
+    </Key>
+    <Key Key="challenge_name_dyahgitarja_finished">
+      <en>Dyah Gitarja Retired</en>
+      <id>Dyah Gitarja Turun Tahta</id>
+    </Key>
+    <Key Key="challenge_desc_dyahgitarja">
+      <en>Dyah Gitarja, also known as Tribhuwana Wijayatunggadewi was the first queen of Majapahit. He rose to the throne in 1328 AD as Tribhuwannottunggadewi Jayawishnuwardhani.[][]-25% Technology Research Cost</en>
+      <id>Dyah Gitarja, juga dikenal dengan nama Tribhuwana Wijayatunggadewi merupakan ratu pertama Kemaharajaan Majapahit. Ia naik tahta pada tahun 1328 Masehi dengan gelar Tribhuwannottunggadewi Jayawishnuwardhani. Sejarah menyebutnya sebagai sosok yang memiliki kebijaksanaan yang luar biasa.[][]-25% Biaya Riset Teknologi</id>
+    </Key>
+    <Key Key="challenge_desc_dyahgitarja_finished">
+      <en>When Gitarja's mother was laid to rest, Gitarja resigned from the throne in 1350 AD</en>
+      <id>Masa pemerintahan Dyah Gitarja berakhir pada tahun 1350 Masehi ketika ibunya, Gayatri Rajapatni wafat. Ia kemudian meninggalkan tahta Majapahit kepada anaknya yang bernama Hayam Wuruk.</id>
+    </Key>
+	
+	<!-- challenge hayamwuruk -->
+    <Key Key="challenge_name_hayamwuruk">
+      <en>Hayam Wuruk Reign</en>
+      <id>Hayam Wuruk Memerintah</id>
+    </Key>
+    <Key Key="challenge_name_hayamwuruk_finished">
+      <en>Hayam Wuruk Died</en>
+      <id>Hayam Wuruk Meninggal</id>
+    </Key>
+    <Key Key="challenge_desc_hayamwuruk">
+      <en>Hayam Wuruk was the fourth King of Majapahit. He rose to the throne in 1350 AD with the title of Rajasanagara Jayawishnuwardhana. With Gajah Mada, he brought the golden age for Majapahit[][]-33% Naval Expedition Time</en>
+      <id>Hayam Wuruk merupakan raja keempat Kemaharajaan Majapahit. Ia naik tahta pada tahun 1350 Masehi dengan gelar Rajasanagara Jayawishnuwardhana. bersama dengan Perdana Mentrinya, Gajah Mada, ia memerintah dengan membawa kejayaan bagi Kemaharajaan Majapahit.[][]-33% Waktu Ekspedisi Maritim</id>
+    </Key>
+    <Key Key="challenge_desc_hayamwuruk_finished">
+      <en>in 1389 AD, Hayam Wuruk passed away. The golden age of Majapahit has come to an end. He left the throne unclaimed, Wikramawardhana rose to the throne.</en>
+      <id>Tahun 1389 Masehi, sang raja, Hayam Wuruk telah meninggal. Kejayaan Majapahit telah berakhir. Ia meninggal dengan meninggalkan dua orang anak, Kusumawardhani yang bersuami Wikramawardhana, serta Wirabhumi yang merupakan anak dari selirnya.</id>
+    </Key>
+	
+	<!-- challenge wikramawardhana -->
+    <Key Key="challenge_name_wikramawardhana">
+      <en>Wikramawardhana Reign</en>
+      <id>Wikramawardhana Memerintah</id>
+    </Key>
+    <Key Key="challenge_name_wikramawardhana_finished">
+      <en>Wikramawardhana Dead</en>
+      <id>Wikramawardhana Meninggal</id>
+    </Key>
+    <Key Key="challenge_desc_wikramawardhana">
+      <en>Wikaramawardhana was Hayam Wuruk's son-in-law. He rose to the throne in 1389 with the title Bhra Hyang Wisesa Aji Wikrama. his reign brought downfall to Majapahit.[][]-25% All Resource Surplus</en>
+      <id>Wikramawardhana merupakan menantu dari Hayam Wuruk. Ia naik tahta pada tahun 1389 dengan gelar Bhra Hyang Wisesa Aji Wikrama. Masa pemerintahannya ditandai dengan kemunduran bagi Kemaharajaan Majapahit.[][]-25% Semua Surplus Sumber Daya</id>
+    </Key>
+    <Key Key="challenge_desc_wikramawardhana_finished">
+      <en>The war of Paregreg brought demise to the Majapahit Empire. Wikramawardhana passed away in 1426 AD, then his son rose to the throne.</en>
+      <id>Perang Paregreg membawa kerugian yang sangat besar bagi Kemaharajaan Majapahit. Hingga akhirnya pada tahun 1426 Masehi Wikramawardhana meninggal, ia kemudian digantikan oleh anaknya yang bernama Suhita.</id>
+    </Key>
+	
+	<!-- challenge newsettlement -->  
+    <Key Key="challenge_name_newsettlement">
+      <en>New Settlement</en>
+      <id>Pemukiman Baru</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement">
+      <en>We need more houses to accomodate the Empire[][]Finish all New Settlement Challenge</en>
+      <id>Kita perlu permukiman baru untuk mengakomodasi kebutuhan[][]Selesaikan Semua Tantangan Pemukiman Baru</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement_finished">
+      <en>Some houses has been built, its adequate to accomodate our growing empire</en>
+      <id>Beberapa rumah telah didirikan, cukup untuk memenuhi kebutuhan rakyat</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement_failed">
+      <en>We failed to build new settlement</en>
+      <id>Kita tidak dapat memenuhi kebutuhan rakyat untuk tempat tinggal</id>
+    </Key>
+	
+	<!-- challenge newsettlement1 -->
+    <Key Key="challenge_name_newsettlement1">
+      <en>Harvest Rice</en>
+      <id>Panen Padi</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement1">
+      <en>The refugees has settled, but food stocks are dwindling. We need a new Rice field to accomodate the need[][]Build a Rice Field</en>
+      <id>Pemukiman baru saja dibangun, namun persediaan beras yang kita miliki tidak akan cukup untuk memberi makan semua orang, kita memerlukan sebuah sawah baru untuk memenuhi kebutuhan penduduk.[][]Bangun sebuah Sawah</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement1_finished">
+      <en>With the rice field finished, food production has started to increase.[][]+1 Population</en>
+      <id>Dengan adanya Sawah, produksi makanan yang kita miliki nantinya akan meningkat sehingga dapat memenuhi kebutuhan makanan setiap penduduk serta dapat meningkatkan pertumbuhan populasi dengan lebih cepat.[][]+1 Populasi</id>
+    </Key>
+	
+	<!-- challenge newsettlement2 -->
+    <Key Key="challenge_name_newsettlement2">
+      <en>Forest Production</en>
+      <id>Produksi Hutan</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement2">
+      <en>Production has an important role to build the building. In the absence of production, the construction of the building will be halted so that it takes a longer development time than before.[][]Research Forestry[]Build a Lumberyard</en>
+      <id>Produksi memiliki peranan yang penting untuk membangun bangunan. tanpa adanya produksi, pembangunan bangunan akan terhenti sehingga memakan waktu pembangunan yang lebih lama dari sebelumnya.[][]Riset Kehutanan[]Bangun sebuah Tukang Kayu</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement2_finished">
+      <en>With the carpenter as a new production source, we can reduce deforestation and get a higher production surplus than before[][]+10 Wealth</en>
+      <id>Dengan adanya tukang kayu sebagai penghasil produksi, kita bisa mengurangi penebangan hutan dan mendapatkan surplus produksi yang lebih tinggi dari sebelumnya.[][]+10 Kekayaan</id>
+    </Key>
+	
+	<!-- challenge newsettlement3 -->
+    <Key Key="challenge_name_newsettlement3">
+      <en>Exploration</en>
+      <id>Penjelajahan</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement3">
+      <en>According to the story of the ancestors, before Majapahit stood, there was a magnificent kingdom that built various kinds of temples in the land of Java. Temple temple is now long abandoned and leaving only the knowledge of the reliefs depicted on the walls[][]Find Ancient Ruins</en>
+      <id>Menurut cerita para leluhur, sebelum Majapahit berdiri, terdapat kerajaan megah yang membangun berbagai macam candi di tanah Jawa. Candi candi tersebut sekarang sudah lama ditinggalkan dan hanya menyisakan pengetahuan dari relief yang tergambar di dindingnya[][]Temukan Reruntuhan Kuno</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement3_finished">
+      <en>Ancient Ruins is a bonus that can encourage the development of the Majapahit Empire. by exploring it, we will gain the treasure and knowledge of the relief depicted on its walls[][]+20 Production</en>
+      <id>Reruntuhan Kuno merupakan sebuah bonus yang dapat mendorong perkembangan bagi Kemaharajaan Majapahit. dengan menjelajahinya, kita akan mendapatkan harta karun dan pengetahuan dari relief yang tergambar di dindingnya[][]+20 Produksi</id>
+    </Key>
+	
+	<!-- challenge newsettlement4 -->
+    <Key Key="challenge_name_newsettlement4">
+      <en>Population</en>
+      <id>Populasi</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement4">
+      <en>The population has an important role in the development of Majapahit. but the number of populations also indicates the number of shelter that is needed, if it is not met then it can beckon the emergence of crisis for the population[][]Reach 5 Population</en>
+      <id>Populasi memiliki peranan yang penting dalam perkembangan Majapahit. tetapi banyaknya  populasi juga menandakan banyaknya tempat tinggal yang perlukan, jika hal tersebut tidak terpenuhi maka dapat mengakbiatkan munculnya krisis bagi penduduk.[][]Capai 5 Populasi</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement4_finished">
+      <en>Large populations signify a more prosperous city, with a large population so we will have no trouble doing any activity without being impeded by the lack of adequate population[][]+20 Knowledge</en>
+      <id>Populasi memiliki peranan yang penting dalam perkembangan Majapahit. tetapi banyaknya  populasi juga menandakan banyaknya tempat tinggal yang perlukan, jika hal tersebut tidak terpenuhi maka dapat mengakbiatkan munculnya krisis bagi penduduk.[][]+20 Pengetahuan</id>
+    </Key>
+	
+	<!-- challenge newsettlement5 -->
+    <Key Key="challenge_name_newsettlement5">
+      <en>Commerce</en>
+      <id>Perniagaan</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement5">
+      <en>Every living resident will pay taxes to increase the wealth owned by the Majapahit Empire, but that alone will not be enough, we also need another source of wealth to finance all the buildings and troops we have.[][]Build a Market</en>
+      <id>Dengan adanya Pasar maka surplus kekayaan kita akan meningkat dari sebelumnya, sisa dari kekayaan yang kita miliki ini nantinya akan sangat berguna ketika kita ingin melakukan hubungan diplomasi dengan kerajaan lain.[][]Bangun sebuah Pasar</id>
+    </Key>
+    <Key Key="challenge_desc_newsettlement5_finished">
+      <en>With the Market built the surplus of our wealth will increase, the rest of the wealth that we have will be very useful when we want to make diplomatic relations with other kingdoms[][]+30 Military</en>
+      <id>Dengan adanya Pasar maka surplus kekayaan kita akan meningkat dari sebelumnya, sisa dari kekayaan yang kita miliki ini nantinya akan sangat berguna ketika kita ingin melakukan hubungan diplomasi dengan kerajaan lain.[][]+30 Militer</id>
+    </Key>
+	
+	<!-- challenge attackkediri -->
+    <Key Key="challenge_name_attackkediri">
+      <en>Overthrow Kediri</en>
+      <id>Menjatuhkan Kediri</id>
+    </Key>
+    <Key Key="challenge_desc_attackkediri">
+      <en>Kediri is on the verge of collapse, external pressures and excessive military expeditions seem to make the nation weaker, now is the time to drop off before they rise again into a powerful empire[]They have about [army] armies[][]Attack Jayakatwang's Armies</en>
+      <id>Kediri sedang dalam ambang kehancurannya, berbagai tekanan dari luar dan ekspedisi militer yang berlebihan tampaknya membuat kediri semakin melemah, sekaranglah saat yang tepat untuk menjatuhkan kediri sebelum mereka bangkit lagi menjadi kerajaan yang kuat.[]Mereka punya sekitar [army] pasukan[][]Serang Tentara Jayakatwang</id>
+    </Key>
+    <Key Key="challenge_desc_attackkediri_finished">
+      <en>With the assassination of Jayakatwang then Kediri and their vassals formally belong to Majapahit, now Majapahit was worthy of the title of the kingdom and raden wijaya was officially crowned as Majapahit king with the title Kertarajasa Jayawardhana.</en>
+      <id>Dengan terbunuhnya Jayakatwang maka Kediri beserta bawahannya secara resmi menjadi milik Majapahit, sekarang Majapahit telah layak menyandang gelar Kemaharajaan dan raden wijaya secara resmi telah dinobatkan sebagai raja Majapahit dengan gelar Kertarajasa Jayawardhana.</id>
+    </Key>
+    <Key Key="challenge_desc_attackkediri_failed">
+      <en>Tens of thousands of Mongol troops who arrived in the land of Java easily conquered the Kingdom of Kediri, fortunately we can still conquer a small part of the former subordinate Kediri, with this Majapahit officially has been separated from the Kingdom of Kediri and Raden Wijaya officially been crowned king of Majapahit with title Kertarajasa Jayawardhanablabla</en>
+      <id>Puluhan ribu pasukan Mongol yang tiba di tanah Jawa dengan mudahnya berhasil menaklukan Kerajaan Kediri, beruntung kita masih bisa menaklukan sebagian kecil wilayah bekas bawahan Kediri, dengan ini Majapahit secara resmi telah lepas dari Kerajaan Kediri dan Raden Wijaya secara resmi telah dinobatkan sebagai raja Majapahit dengan gelar Kertarajasa Jayawardhana.</id>
+    </Key>
+    <Key Key="war_name_attackkediri">
+      <en>Overthrow Kediri</en>
+      <id>Menjatuhkan Kediri</id>
+    </Key>
+    <Key Key="war_enemy_attackkediri">
+      <en>Kediri</en>
+      <id>Kediri</id>
+    </Key>
+	
+	<!-- challenge mongolhelp -->
+    <Key Key="challenge_name_mongolhelp">
+      <en>Mongolian Arrival</en>
+      <id>Kedatangan Mongol</id>
+    </Key>
+    <Key Key="challenge_desc_mongolhelp">
+      <en>In 1293 AD, thousands of foreign ships landed on the coast of Tuban, sources said they came from a country far north to punish the King of Java who had insulted the Imperial Yuan envoy. but unbeknownst to them, the Javanese King they mean has long been killed by Jayakatwang's forces[][]Have 50 Knowledge</en>
+      <id>Tahun 1293 Masehi, ribuan kapal asing mendarat di pesisir kota Tuban, sumber mengatakan mereka datang dari negeri yang jauh di utara untuk menghukum Raja Jawa yang telah menghina utusan Kekaisaran Yuan. namun tanpa sepengetahuan mereka, Raja Jawa yang mereka maksud telah lama dibunuh oleh pasukan Jayakatwang.[][]Miliki 50 Pengetahuan</id>
+    </Key>
+    <Key Key="challenge_desc_mongolhelp_finished">
+      <en>After a lengthy discussion, the Mongol Forces finally assisted Majapahit in attacking Kediri on the condition that Majapahit would submit to the Imperial Yuan. Raden Wijaya who approved it then prepare his troops to conduct an attack on Kediri[][]-50 Knowledge[]+100 Military</en>
+      <id>Setelah diskusi yang panjang, akhirnya Pasukan Mongol mau membantu Majapahit dalam menyerang Kediri dengan syarat Majapahit mau tunduk terhadap Kekaisaran Yuan. Raden Wijaya yang menyetujui hal tersebut kemudian mempersiapkan pasukannya untuk melakukan penyerangan terhadap Kediri.[][]-50 Pengetahuan[]+100 Militer</id>
+    </Key>
+    <Key Key="challenge_desc_mongolhelp_failed">
+      <en>After a long discussion, it seems that the Mongol Forces will not believe in the deception of Majapahit who was once subordinate to Kediri. Despite that they will still attack Kediri even without cooperation with Majapahit</en>
+      <id>Setelah diskusi yang panjang, sepertinya Pasukan Mongol tidak akan mempercayai tipu muslihat Majapahit yang pernah menjadi bawahan Kediri. Meskipun itu mereka akan tetap menyerang Kediri walaupun tanpa kerjasama dengan Majapahit.</id>
+    </Key>
+	
+	<!-- challenge attackmongol -->
+    <Key Key="challenge_name_attackmongol">
+      <en>Drive Out Mongol Armies</en>
+      <id>Usir Pasukan Mongol</id>
+    </Key>
+    <Key Key="challenge_desc_attackmongol">
+      <en>After the Mongol victory over Kediri, now is the right time to invade the Mongols and drive him out of the land of Java, before more and more troops come to control the land of Java[]They have about [army] armies[][]Attack Mongol Armies[]-25% Food Surplus</en>
+      <id>Setelah kemenangan Mongol terhadap Kediri, sekaranglah saat yang tepat untuk menyerbu pasukan Mongol dan mengusirnya dari tanah Jawa, sebelum semakin banyak pasukan mongol lain yang datang untuk menguasai tanah Jawa.[]Mereka punya sekitar [army] pasukan[][]Serang Pasukan Mongol[]-25% Surplus Makanan</id>
+    </Key>
+    <Key Key="challenge_desc_attackmongol_finished">
+      <en>With the persistence of Majapahit troops, the Mongol forces were defeated, the remaining Mongol forces forced to return home with an invasion failure over Java.[][]+100 Wealth</en>
+      <id>Dengan kegigihan pasukan Majapahit, pasukan Mongol tersebut berhasil dikalahkan, pasukan mongol yang tersisa terpaksa pulang dengan membawa kegagalan invasi atas tanah Jawa.[][]+100 Kekayaan</id>
+    </Key>
+    <Key Key="challenge_desc_attackmongol_failed">
+      <en>Although we are not able to drive out the Mongolian army from Java, luckily, other kingdoms have succeeded in attacking and forcing the Mongols to return to their native land.</en>
+      <id>Meskipun kita tidak berhasil mengusir pasukan mongol dari tanah jawa, beruntung, kerajaan lain telah berhasil menyerang dan memaksa pasukan Mongol untuk kembali ke negeri asalnya.</id>
+    </Key>
+    <Key Key="war_name_attackmongol">
+      <en>Drive Out Mongol Armies</en>
+      <id>Usir Pasukan Mongol</id>
+    </Key>
+    <Key Key="war_enemy_attackmongol">
+      <en>Mongol</en>
+      <id>Mongol</id>
+    </Key>
+	
+	<!-- challenge buildharbor -->
+    <Key Key="challenge_name_buildharbor">
+      <en>Maritime City</en>
+      <id>Kota Maritim</id>
+    </Key>
+    <Key Key="challenge_desc_buildharbor">
+      <en>By capitalizing on the morale of our ancestors, we need a port that will create a fleet of ships that can bring success to the Majapahit Empire.[][]Research Seafaring[]Build a Harbor</en>
+      <id>Dengan bermodalkan semangat melaut dari para leluhur kita, kita memerlukan sebuah pelabuhan yang akan membuat armada kapal yang dapat membawa kejayaan bagi Kemaharajaan Majapahit.[][]Riset Pelayaran[]Bangun sebuah Pelabuhan</id>
+    </Key>
+    <Key Key="challenge_desc_buildharbor_finished">
+      <en>With this harbor, Majapahit will become a Maritime Empire capable of unifying the Nusantara under the Majapahitans Banner[][]+1 Naval Fleet</en>
+      <id>Dengan adanya pelabuhan ini, Majapahit akan menjadi sebuah Kemaharajaan Maritim yang mampu menyatukan Nusantara dibawah Panji Majapahit.[][]+1 Armada Kapal</id>
+    </Key>
+    <Key Key="challenge_desc_buildharbor_failed">
+      <en>Perhaps not now, but one day the majapahit fleet will master the entire Java Sea and bring Success to the Majapahit Empire</en>
+      <id>Mungkin tidak sekarang, tapi suatu saat armada kapal majapahit akan menguasai seluruh lautan Jawa dan membawa Kejayaan bagi Kemaharajaan Majapahit</id>
+    </Key>
+	
+	<!-- challenge attackkuti -->
+    <Key Key="challenge_name_attackkuti">
+      <en>Kuti's Rebellion</en>
+      <id>Pemberontakan Kuti</id>
+    </Key>
+    <Key Key="challenge_desc_attackkuti">
+      <en>In 1309 AD, Ra Kuti rebelled against the Majapahit Empire. The rebellion was so great that it spread to the capital of Majapahit, Trowulan.[]They have about [army] armies[][]Attack Kuti's Armies[]+100% Building Upkeep Cost</en>
+      <id>Tahun 1309 Masehi, Ra Kuti melakukan pemberontakan terhadap Kemaharajaan Majapahit. pemberontakan tersebut begitu besar sehingga merambat ke ibu kota Majapahit, Trowulan.[]Mereka punya sekitar [army] pasukan[][]Serang Pasukan Kuti[]+100% Biaya Pemeliharaan Banguan</id>
+    </Key>
+    <Key Key="challenge_desc_attackkuti_finished">
+      <en>Thanks to the help of Gajah Mada, Kuti rebellion was successfully crushed. For his role, Gajah Mada was promoted to a higher position[][]+25% Military Combat Strength</en>
+      <id>Berkat bantuan dari Gajah Mada, pemberontakan Kuti berhasil ditumpas. Atas peranannya tersebut, Gajah Mada dipromosikan ke jabatan yang lebih tinggi.[][]+25% Kekuatan Tempur Militer</id>
+    </Key>
+    <Key Key="challenge_desc_attackkuti_failed">
+      <en>The situation becomes increasingly chaotic at Trowulan. but luckily, a rebellion not supported by the people could be crushed by the royal guard. Knowing his rebellion failed, Ra Kuti fled</en>
+      <id>Situasi menjadi semakin kacau di Trowulan. namun beruntung, pemberontakan yang tidak didukung oleh rakyat tersebut bisa ditumpas oleh pasukan penjaga kerajaan. Mengetahui pemberontakannya gagal, Ra Kuti melarikan diri.</id>
+    </Key>
+    <Key Key="war_name_attackkuti">
+      <en>Kuti's Rebellion</en>
+      <id>Pemberontakan Kuti</id>
+    </Key>
+    <Key Key="war_enemy_attackkuti">
+      <en>Kuti</en>
+      <id>Kuti</id>
+    </Key>
+	
+	<!-- challenge buildtemple -->
+    <Key Key="challenge_name_buildtemple">
+      <en>Queen of Wisdom</en>
+      <id>Ratu Kebijaksanaan</id>
+    </Key>
+    <Key Key="challenge_desc_buildtemple">
+      <en>On the advice of his mother, a pastor named Gayatri. Dyah Gitarja was ordered to build three temples as proof of Majapahit Majapahit's majesty[][]Build 3 Temples</en>
+      <id>Atas saran dari ibunya, seorang pendeta bernama Gayatri. Dyah Gitarja diperintahkan untuk membangun tiga buah candi sebagai bukti keagungan Kemaharajaan Majapahit.[][]Bangun 3 Candi</id>
+    </Key>
+    <Key Key="challenge_desc_buildtemple_finished">
+      <en>The construction of the three temples has been completed, with this Majapahit Empire will be remembered as the grand and glorious empire in the archipelago.[][]+25% Wealth Surplus</en>
+      <id>Pembangunan ketiga buah candi telah selesai, dengan ini Kemaharajaan Majapahit akan diingat sebagai kemaharajaan yang agung dan megah di Nusantara.[][]+25% Surplus Kekayaan</id>
+    </Key>
+    <Key Key="challenge_desc_buildtemple_failed">
+      <en>Disappointed that her advice was not accepted, Gayatri, who previously served as royal advisor, chose to retreat from Trowulan until her death.</en>
+      <id>Kecewa karena sarannya tidak diterima, Gayatri yang sebelumnya juga menjabat sebagai penasihat kerajaan memilih untuk mengasingkan diri dari Trowulan hingga ajalanya tiba. </id>
+    </Key>
+	
+	<!-- challenge palapaoath -->
+    <Key Key="challenge_name_palapaoath">
+      <en>Palapa Oath</en>
+      <id>Sumpah Palapa</id>
+    </Key>
+    <Key Key="challenge_desc_palapaoath">
+      <en>For his enormous role, Dyah Gitarja raised Gajah Mada as Mahapatih in 1334 AD. when the rapture he declared an oath where he would not feel the pleasure of the world until the archipelago succeeded under the banner of the Majapahit Empire[][]Conquer Nusantara, Either with Alliance or Invasion</en>
+      <id>Atas perannya yang sangat besar, Dyah Gitarja mengangkat Gajah Mada sebagai Mahapatih pada tahun 1334 Masehi. ketika pengangkatan ia mengatakn sebuah sumpah dimana ia tidak akan merasakan kenikmatan dunia hingga Nusantara berhasil tunduk dibawah panji Kemaharajaan Majapahit.[][]Taklukan Nusantara, Baik melalui Persekutuan atau Penyerbuan</id>
+    </Key>
+    <Key Key="challenge_desc_palapaoath_finished">
+      <en>The Palapa Oath has been fulfilled. Upon his persistence, Gajah Mada can finally live peacefully because the archipelago has been submissive under the banner of Kemaharajaan Majapahit[][]+25% Resource from Trading</en>
+      <id>Sumpah Palapa telah terpenuhi. Atas kegigihannya tersebut, Gajah Mada akhirnya bisa hidup dengan tenang karena Nusantara telah tunduk dibawah panji Kemaharajaan Majapahit.[][]+25% Sumber Daya dari Perdagangan</id>
+    </Key>
+    <Key Key="challenge_desc_palapaoath_failed">
+      <en>Palapa's oath may not be fulfilled by Gajah Mada for now, but he is convinced that at some point there will be a figure that can unite every kingdom in the archipelago even though not with the flag of the Majapahit Empire</en>
+      <id>Sumpah Palapa mungkin tidak dapat dipenuhi oleh Gajah Mada untuk saat ini, tetapi ia yakin, suatu saat pasti akan ada sosok yang mampu menyatukan setiap kerajaan di Nusantara walaupun bukan dengan panji Kemaharajaan Majapahit</id>
+    </Key>
+	
+	<!-- challenge sundamarriage -->
+    <Key Key="challenge_name_sundamarriage">
+      <en>Sunda Marriage</en>
+      <id>Pernikahan Sunda</id>
+    </Key>
+    <Key Key="challenge_desc_sundamarriage">
+      <en>In 1357 AD, Hayam Wuruk intends to marry the daughter of the Kingdom of Sunda, Dyah Pitaloka. The King of Sunda approved the offer and sent troops to escort his daughter to Trowulan for marriage with Hayam Wuruk[][]Wait 10 Turns</en>
+      <id>Tahun 1357 Masehi, Hayam Wuruk berniat menikahi putri Kerajaan Sunda, Dyah Pitaloka. Raja Sunda menyetujui tawaran tersebut dan mengirim pasukan untuk mengawal putrinya menuju Trowulan untuk dinikahkan dengan Hayam Wuruk[][]Tunggu 10 Giliran</id>
+    </Key>
+    <Key Key="challenge_desc_sundamarriage_finished">
+      <en>Gajah Mada saw the arrival of the Sunda as an opportunity to sue the sundanese to submit to the Majapahit Empire, he and his troops then attacked the troop troops in a place called Bubat</en>
+      <id>Gajah Mada melihat kedatangan pasukan sunda sebagai peluang untuk menuntut sunda agar tunduk terhadap Kemaharajaan Majapahit, ia dan pasukannya kemudian menyerang rombongan pasukan sunda di sebuah tempat bernama Bubat</id>
+    </Key>
+    <Key Key="challenge_desc_sundamarriage_failed">
+      <en>Gajah Mada saw the arrival of the Sunda as an opportunity to sue the sundanese to submit to the Majapahit Empire, he and his troops then attacked the troop troops in a place called Bubat</en>
+      <id>Gajah Mada melihat kedatangan pasukan sunda sebagai peluang untuk menuntut sunda agar tunduk terhadap Kemaharajaan Majapahit, ia dan pasukannya kemudian menyerang rombongan pasukan sunda di sebuah tempat bernama Bubat</id>
+    </Key>
+	
+	<!-- challenge bubattragedy -->
+    <Key Key="challenge_name_bubattragedy">
+      <en>Bubat Tragedy</en>
+      <id>Tragedi Bubat</id>
+    </Key>
+    <Key Key="challenge_desc_bubattragedy">
+      <en>War can not be ignored, the Gajah Mada forces are ready to destroy the Sundanese royal forces in order to gain power over Sundanese land for the Majapahit Empire[]They have about [army] armies[][]Attack Sunda Armies</en>
+      <id>Perang tidak dapat terelakan, pasukan Gajah Mada siap untuk menghancurkan pasukan Kerajaan Sunda demi mendapatkan kekuasaan atas tanah Sunda bagi Kemaharajaan Majapahit[]Mereka punya sekitar [army] pasukan[][]Serang Pasukan Sunda</id>
+    </Key>
+    <Key Key="challenge_desc_bubattragedy_finished">
+      <en>The war was won by Gajah Mada. but ill-fated, for the event the princess of the Kingdom of Sunda chose to commit suicide. These events make the entire Sundanese people mourning. And for his carelessness, Gajah Mada lost faith by the court officials who ended his career as mahapatih</en>
+      <id>Perang berhasil dimenangkan oleh Gajah Mada. namun naas, atas peristiwa tersebut sang putri Kerajaan Sunda memilih untuk bunuh diri. Peristiwa tersebut membuat seluruh masyarakat Sunda berkabung. Dan atas kecerobohannya, Gajah Mada kehilangan kepercayaan oleh pejabat istana yang sekaligus mengakhiri karirnya sebagai mahapatih.</id>
+    </Key>
+    <Key Key="challenge_desc_bubattragedy_failed">
+      <en>The war has failed to be won by Gajah Mada. The remaining Sunda troops then returned with the princess. The relationship with the kingdom of sunda has become increasingly fragile. And for his aggravation, Gajah Mada lost his trust by a palace official who ended his career as a mafia.</en>
+      <id>Perang telah gagal dimenangkan oleh Gajah Mada. Pasukan Sunda yang tersisa kemudian kembali bersama sang putri. Hubungan dengan kerajaan sunda menjadi semakin renggang. Dan atas kecerobohannya, Gajah Mada kehilangan kepercayaan oleh pejabat istana yang sekaligus mengakhiri karirnya sebagai mahapatih.</id>
+    </Key>
+    <Key Key="war_name_attackkuti">
+      <en>Battle of Bubat</en>
+      <id>Pertempuran Bubat</id>
+    </Key>
+    <Key Key="war_enemy_attackkuti">
+      <en>Sunda</en>
+      <id>Sunda</id>
+    </Key>
+	
+	<!-- challenge buildwonders -->
+    <Key Key="challenge_name_buildwonders">
+      <en>Story of Our Ancestor</en>
+      <id>Kisah Leluhur Kita</id>
+    </Key>
+    <Key Key="challenge_desc_buildwonders">
+      <en>To remember the glory of Majapahit over the past few years, the Imperial advisor suggested that we restore a temple and transform it into a more magnificent temple than before.[][]Build Wonders</en>
+      <id>Untuk mengingat kejayaan Majapahit selama beberapa tahun ini, penasihat Istana menyarankan agar kita memugar sebuah candi dan merubahnya menjadi candi yang lebih megah dari sebelumnya.[][]Bangun Keajaiban</id>
+    </Key>
+    <Key Key="challenge_desc_buildwonders_finished">
+      <en>The wonder is completed, with this our grandchildren will remember the great success of Majapahit in the past that united the entire archipelago under the banner of the Majapahit Empire</en>
+      <id>Keajaiban selesai dibangun, dengan ini anak cucu kita akan ingat tentang kejayaan Majapahit di masa lampau yang berhasil menyatukan seluruh nusantara di bawah panji Kemaharajaan Majapahit.</id>
+    </Key>
+    <Key Key="challenge_desc_buildwonders_failed">
+      <en>Although without a Wonder, our descendants will still remember the success of Majapahit in the past which has united the entire archipelago under the banner of the Majapahit Empire</en>
+      <id>Walaupun tanpa sebuah Keajaiban, anak cucu kita akan tetap ingat tentang kejayaan Majapahit di masa lampau yang berhasil menyatukan seluruh nusantara di bawah panji Kemaharajaan Majapahit.</id>
+    </Key>
+	
+	<!-- challenge paregregwar -->
+    <Key Key="challenge_name_paregregwar">
+      <en>Paregreg War</en>
+      <id>Perang Paregreg</id>
+    </Key>
+    <Key Key="challenge_desc_paregregwar">
+      <en>In 1404 AD, a civil war took place. Majapahit is separated between the Western Palace led by King Kita, Wikramawardhana and the Eastern Palace led by Bhre Wirabhumi.[]They have about [army] armies[][]Attack Bhre Wirabhumi's Armies</en>
+      <id>Tahun 1404 Masehi, sebuah perang saudara terjadi. Majapahit terpisah antara Istana Barat yang dipimpin oleh Raja Kita, Wikramawardhana dan Istana Timur yang dipimpin oleh Bhre Wirabhumi.[]Mereka punya sekitar [army] pasukan[][]Serang Pasukan Bhre Wirabhumi</id>
+    </Key>
+    <Key Key="challenge_desc_paregregwar_finished">
+      <en>At the command of his father, Wikramawardhana, Bhre Tumapel succeeded in raiding the East Palace, killing Bhre Wirabhumi, and reuniting the Majapahit Empire[][]+25% All Resource Surplus</en>
+      <id>Atas perintah dari ayahnya, Wikramawardhana, Bhre Tumapel berhasil menyerbu Istana Timur, membunuh Bhre Wirabhumi, dan kembali menyatukan Kemaharajaan Majapahit.[][]+25% Semua Surplus Sumber Daya</id>
+    </Key>
+    <Key Key="challenge_desc_paregregwar_failed">
+      <en>The attack on the East Palace became a major failure of the Wikramawardhana government, because uniting the East and West Palace would result in the collapse of the Majapahit Empire itself.</en>
+      <id>Serangan terhadap Istana Timur menjadi kegagalan yang besar dari pemerintahan Wikramawardhana, karena dengan tidak disatukannya Istana Timur dan Barat akan mengakibatkan keruntuhan bagi Kemaharajaan Majapahit itu sendiri.</id>
+    </Key>
+	
+	<!-- random drought -->
+    <Key Key="random_name_drought">
+      <en>Drought</en>
+      <id>Kekeringan</id>
+    </Key>
+    <Key Key="random_desc_drought">
+      <en>The mother nature is currently not in our side, drought attacked our territory. Fields are dry and water are getting scarce[][]-50% Food Surplus</en>
+      <id>Alam sedang tidak berpihak kepada kita. Ladang mengering dan air menjadi langka[][]-50% Surplus Makanan</id>
+    </Key>
+    <Key Key="random_desc_drought_finished">
+      <en>blablabla</en>
+      <id>blablabla</id>
+    </Key>
+
+	<!-- random flood -->
+    <Key Key="random_name_flood">
+      <en>Flood</en>
+      <id>Banjir</id>
+    </Key>
+    <Key Key="random_desc_flood">
+      <en>The mother nature is currently not in our side, flood drowned our field and damaged our harbors[][]-50% Production Surplus</en>
+      <id>Alam sedang tidak berpihak kepada kita, banjir merendam sawah kita dan merusak pelabuhan kita[][]-50% Surplus Produksi</id>
+    </Key>
+    <Key Key="random_desc_flood_finished">
+      <en>blablabla</en>
+      <id>blablabla</id>
+    </Key>
+
+
+	<!-- random blessed -->
+    <Key Key="random_name_blessed">
+      <en>Blessed</en>
+      <id>Diberkati</id>
+    </Key>
+    <Key Key="random_desc_blessed">
+      <en>God's favor is currently in our side. Our civilization is currently blessed[][]+50% Production Surplus</en>
+      <id>Dewa sedang senang kepada kita. Kerajaan kita terberkati.[][]-50% Surplus Produksi</id>
+    </Key>
+    <Key Key="random_desc_blessed_finished">
+      <en>blablabla</en>
+      <id>blablabla</id>
+    </Key>
+
+	<!-- random enlightned-->
+    <Key Key="random_name_enlightned">
+      <en>Enlightned</en>
+      <id>Terinspirasi</id>
+    </Key>
+    <Key Key="random_desc_enlightned">
+      <en>Our scholars has made an innovative breakthrough, which inspires the others[][]+50% Knowledge Surplus</en>
+      <id>Ilmuwan kita menemukan penemuan baru, yang menginspirasi ilmuwan ilmuwan lain[][]+50% Surplus Pengetahuan</id>
+    </Key>
+    <Key Key="random_desc_enlightned_finished">
+      <en>blablabla</en>
+      <id>blablabla</id>
+    </Key>
+
+	<!-- random rain -->
+    <Key Key="random_name_rain">
+      <en>Rain Season</en>
+      <id>Musim Hujan</id>
+    </Key>
+    <Key Key="random_desc_rain">
+      <en>Rain fell to our kingdom, dry lands turns fertile and crops grows fast[][]+50% Food Surplus</en>
+      <id>Hujan turun di kerajaan kita. Tanah yang kering menjadi subur dan tumbuhan tumbuh dengan cepat[][]+50% Surplus Makanan</id>
+    </Key>
+    <Key Key="random_desc_rain_finished">
+      <en>blablabla</en>
+      <id>blablabla</id>
+    </Key>
+	
+	
+	<!-- info no production -->
+    <Key Key="info_name_noproduction">
+      <en>Lack Production</en>
+      <id>Kekurangan Produksi</id>
+    </Key>
+    <Key Key="info_desc_noproduction">
+      <en>We do not have enough Production to build the Building. Construction on some buildings will be stopped</en>
+      <id>Kita tidak punya cukup Produksi untuk membangun Bangunan. Pembangunan pada beberapa bangunan akan terhenti</id>
+    </Key>
+
+  </Keys>
+</DataLanguage>

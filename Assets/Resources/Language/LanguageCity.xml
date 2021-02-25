@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<DataLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Keys>
+  
+    <Key Key="city_name_player">
+      <en>Majapahit</en>
+      <id>Majapahit</id>
+    </Key>
+	
+	<!-- java1 -->
+    <Key Key="city_name_java1">
+      <en>Trowulan</en>
+      <id>Trowulan</id>
+    </Key>
+    <Key Key="city_desc_java1">
+      <en>Trowulan is capital of Majapahit Empire, located in eastern part of Java island</en>
+      <id>Trowulan merupakan ibu kota Kemaharajaan Majapahit, terletak di bagian timur pulau Jawa</id>
+    </Key>
+	
+	<!-- java2 -->
+    <Key Key="city_name_java2">
+      <en>Mataram</en>
+      <id>Mataram</id>
+    </Key>
+    <Key Key="city_desc_java2">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- java3 -->
+    <Key Key="city_name_java3">
+      <en>Sundanese</en>
+      <id>Sunda</id>
+    </Key>
+    <Key Key="city_desc_java3">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- java4 -->
+    <Key Key="city_name_java4">
+      <en>Bali</en>
+      <id>Bali</id>
+    </Key>
+    <Key Key="city_desc_java4">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- java5 -->
+    <Key Key="city_name_java5">
+      <en>Bima</en>
+      <id>Bima</id>
+    </Key>
+    <Key Key="city_desc_java5">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- java6 -->
+    <Key Key="city_name_java6">
+      <en>Timor</en>
+      <id>Timur</id>
+    </Key>
+    <Key Key="city_desc_java6">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- sumatera1 -->
+    <Key Key="city_name_sumatera1">
+      <en>Palembang</en>
+      <id>Palembang</id>
+    </Key>
+    <Key Key="city_desc_sumatera1">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- sumatera2 -->
+    <Key Key="city_name_sumatera2">
+      <en>Jambi</en>
+      <id>Jambi</id>
+    </Key>
+    <Key Key="city_desc_sumatera2">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- sumatera3 -->
+    <Key Key="city_name_sumatera3">
+      <en>Pagaruyung</en>
+      <id>Pagaruyung</id>
+    </Key>
+    <Key Key="city_desc_sumatera3">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- sumatera4 -->
+    <Key Key="city_name_sumatera4">
+      <en>Aru</en>
+      <id>Aru</id>
+    </Key>
+    <Key Key="city_desc_sumatera4">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- sumatera5 -->
+    <Key Key="city_name_sumatera5">
+      <en>Pasai</en>
+      <id>Pasai</id>
+    </Key>
+    <Key Key="city_desc_sumatera5">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- sumatera6 -->
+    <Key Key="city_name_sumatera6">
+      <en>Lamuri</en>
+      <id>Lamuri</id>
+    </Key>
+    <Key Key="city_desc_sumatera6">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- malay1 -->
+    <Key Key="city_name_malay1">
+      <en>Temasik</en>
+      <id>Tumasik</id>
+    </Key>
+    <Key Key="city_desc_malay1">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- malay2 -->
+    <Key Key="city_name_malay2">
+      <en>Malacca</en>
+      <id>Malaka</id>
+    </Key>
+    <Key Key="city_desc_malay2">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- malay3 -->
+    <Key Key="city_name_malay3">
+      <en>Kedah</en>
+      <id>Kedah</id>
+    </Key>
+    <Key Key="city_desc_malay3">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- borneo1 -->
+    <Key Key="city_name_borneo1">
+      <en>Tanjungpura</en>
+      <id>Tanjungpura</id>
+    </Key>
+    <Key Key="city_desc_borneo1">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- borneo2 -->
+    <Key Key="city_name_borneo2">
+      <en>Melanau</en>
+      <id>Melanau</id>
+    </Key>
+    <Key Key="city_desc_borneo2">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- borneo3 -->
+    <Key Key="city_name_borneo3">
+      <en>Brunei</en>
+      <id>Brunei</id>
+    </Key>
+    <Key Key="city_desc_borneo3">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- borneo4 -->
+    <Key Key="city_name_borneo4">
+      <en>Tidung</en>
+      <id>Tidung</id>
+    </Key>
+    <Key Key="city_desc_borneo4">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- borneo5 -->
+    <Key Key="city_name_borneo5">
+      <en>Kutai</en>
+      <id>Kutai</id>
+    </Key>
+    <Key Key="city_desc_borneo5">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- borneo6 -->
+    <Key Key="city_name_borneo6">
+      <en>Banjar</en>
+      <id>Banjar</id>
+    </Key>
+    <Key Key="city_desc_borneo6">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- borneo7 -->
+    <Key Key="city_name_borneo7">
+      <en>Sulu</en>
+      <id>Sulu</id>
+    </Key>
+    <Key Key="city_desc_borneo7">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- celebes1 -->
+    <Key Key="city_name_celebes1">
+      <en>Tallo</en>
+      <id>Tallo</id>
+    </Key>
+    <Key Key="city_desc_celebes1">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- celebes2 -->
+    <Key Key="city_name_celebes2">
+      <en>Luwu</en>
+      <id>Luwu</id>
+    </Key>
+    <Key Key="city_desc_celebes2">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- celebes3 -->
+    <Key Key="city_name_celebes3">
+      <en>Buton</en>
+      <id>Buton</id>
+    </Key>
+    <Key Key="city_desc_celebes3">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- celebes4 -->
+    <Key Key="city_name_celebes4">
+      <en>Manado</en>
+      <id>Manado</id>
+    </Key>
+    <Key Key="city_desc_celebes4">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- celebes5 -->
+    <Key Key="city_name_celebes5">
+      <en>Ternate</en>
+      <id>Ternate</id>
+    </Key>
+    <Key Key="city_desc_celebes5">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- celebes6 -->
+    <Key Key="city_name_celebes6">
+      <en>Tidore</en>
+      <id>Tidore</id>
+    </Key>
+    <Key Key="city_desc_celebes6">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- celebes7 -->
+    <Key Key="city_name_celebes7">
+      <en>Onin</en>
+      <id>Onin</id>
+    </Key>
+    <Key Key="city_desc_celebes7">
+      <en></en>
+      <id></id>
+    </Key>
+	
+	<!-- diplomacy -->
+	<Key Key="city_desc_intro">
+      <en>Our scout just arrived from [city_name]</en>
+      <id>Pengintai kita baru saja tiba dari [city_name]</id>
+    </Key>
+	
+	<!-- relation -->
+    <Key Key="city_desc_relation1">
+      <en>Their People are [b]Hostile[/b] toward us</en>
+      <id>Orang orangnya [b]Tidak Ramah[/b] terhadap kita</id>
+    </Key>
+    <Key Key="city_desc_relation2">
+      <en>Their People are [b]Neutral[/b] toward us</en>
+      <id>Orang orangnya [b]Cukup Ramah[/b] terhadap kita</id>
+    </Key>
+    <Key Key="city_desc_relation3">
+      <en>Their People are [b]Friendly[/b] toward us</en>
+      <id>Orang orangnya [b]Sangat Ramah[/b] terhadap kita</id>
+    </Key>
+    <Key Key="city_desc_relation4">
+      <en>This City is [b]Allied[/b] with us</en>
+      <id>Kota ini [b]Bersekutu[/b] dengan kita</id>
+    </Key>
+    <Key Key="city_desc_relation5">
+      <en>This City is [b]Vassal[/b] of our Empire</en>
+      <id>Kota ini merupakan [b]Vassal[/b] dari Kemaharajaan kita</id>
+    </Key>
+	
+	<!-- Military -->
+    <Key Key="city_desc_military1">
+      <en>Their armies are consist of [b]Weak[/b] peasant army</en>
+      <id>Pasukan mereka terdiri atas pasukan rakyat yang [b]Lemah[/b]</id>
+    </Key>
+    <Key Key="city_desc_military2">
+      <en>Their armies are consist of [b]Moderate[/b] archers and spearman</en>
+      <id>Pasukan mereka terdiri atas pemanah dan penombak yang [b]Sedang[/b]</id>
+    </Key>
+    <Key Key="city_desc_military3">
+      <en>Their armies are consist of [b]Strong[/b] cavalry and warriors</en>
+      <id>Pasukan mereka terdiri atas penunggang kuda dan pendekar yang [b]Kuat[/b]</id>
+    </Key>
+	
+	<!-- trade -->
+    <Key Key="city_desc_trade_food1">
+      <en>Their main trade commodities is [b]Rice[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Beras[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_food2">
+      <en>Their main trade commodities is [b]Cinnamon[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Kayu Manis[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_production1">
+      <en>Their main trade commodities is [b]Rattan[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Rotan[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_production2">
+      <en>Their main trade commodities is [b]Limestone[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Batu Kapur[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_wealth1">
+      <en>Their main trade commodities is [b]Spices[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Rempah-Rempah[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_wealth2">
+      <en>Their main trade commodities is [b]Gold[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Emas[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_culture1">
+      <en>Their main trade commodities is [b]Cotton[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Kapas[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_culture2">
+      <en>Their main trade commodities is [b]Ivory[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Gading[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_military1">
+      <en>Their main trade commodities is [b]Iron[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Besi[/b]</id>
+    </Key>
+    <Key Key="city_desc_trade_military2">
+      <en>Their main trade commodities is [b]Horse[/b]</en>
+      <id>Komoditas dagang utama mereka adalah [b]Kuda[/b]</id>
+    </Key>
+	
+	<!-- command -->
+    <Key Key="city_desc_command_capital">
+      <en>This is our Empire's [b]Capital City[/b]</en>
+      <id>Ini merupakan [b]Ibu Kota[/b] Kemaharajaan kita</id>
+    </Key>
+    <Key Key="city_desc_command_tributefood">
+      <en>This city will grants us [b][tribute_food] Food[/b] for each turn</en>
+      <id>Kota ini akan memberi kita [b][tribute_food] Makanan[/b] untuk setiap giliran</id>
+    </Key>
+    <Key Key="city_desc_command_tributeproduction">
+      <en>This city will grants us [b][tribute_production] Production[/b] for each turn</en>
+      <id>Kota ini akan memberi kita [b][tribute_production] Produksi[/b] untuk setiap giliran</id>
+    </Key>
+    <Key Key="city_desc_command_tributewealth">
+      <en>This city will grants us [b][tribute_wealth] Wealth[/b] for each turn</en>
+      <id>Kota ini akan memberi kita [b][tribute_wealth] Kekayaan[/b] untuk setiap giliran</id>
+    </Key>
+    <Key Key="city_desc_command_tributeculture">
+      <en>This city will grants us [b][tribute_culture] Knowledge[/b] for each turn</en>
+      <id>Kota ini akan memberi kita [b][tribute_culture] Pengetahuan[/b] untuk setiap giliran</id>
+    </Key>
+    <Key Key="city_desc_command_tributemilitary">
+      <en>This city will grants us [b][tribute_military] Military[/b] for each turn</en>
+      <id>Kota ini akan memberi kita [b][tribute_military] Militer[/b] untuk setiap giliran</id>
+    </Key>
+	
+    <Key Key="city_desc_command_alliance">
+      <en>Our envoy will propose alliance with [city_name] in [b][command_time][/b] turns</en>
+      <id>Utusan kita akan mengusulkan persekutuan dengan [city_name} dalam [b][command_time][/b] giliran</id>
+    </Key>
+    <Key Key="city_desc_command_invade">
+      <en>Our armies will invade [city_name] in [b][command_time][/b] turns</en>
+      <id>Pasukan kita akan menyerbu [city_name] dalam [b][command_time][/b] giliran</id>
+    </Key>
+    <Key Key="city_desc_command_trade">
+      <en>Our merchant will sail to [city_name] in [b][command_time][/b] turns</en>
+      <id>Pedagang kita akan berlayar menuju [city_name] dalam [b][command_time][/b] giliran</id>
+    </Key>
+    <Key Key="city_desc_command_sendgift">
+      <en>Our envoy will send gift to [city_name] in [b][command_time][/b] turns</en>
+      <id>Utusan kita akan mengirim hadiah kepada [city_name] dalam [b][command_time][/b] giliran</id>
+    </Key>
+    <Key Key="city_desc_command_raid">
+      <en>Our armies will raid [city_name] in [b][command_time][/b] turns</en>
+      <id>Pasukan kita akan menjarah [city_name] dalam [b][command_time][/b] giliran</id>
+    </Key>
+	
+	<!-- expedition alliance -->
+	
+    <Key Key="expedition_name_alliance_init">
+      <en>Propose Alliance with [name]</en>
+      <id>Mengusulkan Persekutuan dengan [name]</id>
+    </Key>
+    <Key Key="expedition_desc_alliance_init">
+      <en>Our envoy are ready to propose alliance with [name] in [time] turns</en>
+      <id>Utusan kita telah siap mengusulkan persekutuan dengan [name] dalam [time] giliran</id>
+    </Key>
+    <Key Key="expedition_button_alliance_init">
+      <en>Propose Alliance[]([value] Wealth)</en>
+      <id>Usulkan Persekutuan[]([value] Kekayaan)</id>
+    </Key>
+	
+    <Key Key="expedition_name_alliance_finish">
+      <en>Envoy Returned</en>
+      <id>Utusan Kembali</id>
+    </Key>
+    <Key Key="expedition_desc_alliance_finish_success">
+      <en>Our envoy have successfully propose alliance with [name][][]This city become our allies</en>
+      <id>Utusan kita telah berhasil mengusulkan persekutuan dengan [name][][]Kota ini menjadi sekutu kita</id>
+    </Key>
+    <Key Key="expedition_desc_alliance_finish_failed">
+      <en>Our envoy have failed to propose alliance with [name] and was humiliated in process[][]Relation with this city is decreased</en>
+      <id>Utusan kita telah gagal mengusulkan persekutuan dengan [name] dan telah dipermalukan dalam proses[][]Hubungan dengan kota ini menurun</id>
+    </Key>
+	
+	<!-- expedition invade -->
+	
+    <Key Key="expedition_name_invade_init">
+      <en>Invade [name]</en>
+      <id>Menyerbu [name]</id>
+    </Key>
+    <Key Key="expedition_desc_invade_init">
+      <en>Our armies are ready to invade [name] in [time] turns[]They have about [value] armies</en>
+      <id>Pasukan kita telah siap menyerbu [name] dalam [time] giliran[]Mereka punya sekitar [value] pasukan</id>
+    </Key>
+    <Key Key="expedition_buttona_invade_init">
+      <en>Send Armies[]([value] Military)</en>
+      <id>Kirim Pasukan[]([value] Militer)</id>
+    </Key>
+    <Key Key="expedition_buttonb_invade_init">
+      <en>Send Larger Armies[]([value] Military)</en>
+      <id>Kirim Banyak Pasukan[]([value] Militer)</id>
+    </Key>
+	
+    <Key Key="expedition_name_invade_finish">
+      <en>Invade [name]</en>
+      <id>Menyerbu [name]</id>
+    </Key>
+    <Key Key="expedition_desc_invade_finish_start">
+      <en>Our armies are ready to invade [name][]Upon succeed, we will gain control of this city</en>
+      <id>Pasukan kita telah siap menyerbu [name][]Setelah berhasil, kita akan menguasai kota ini</id>
+    </Key>
+    <Key Key="expedition_desc_invade_finish_success">
+      <en>Our armies have successfully invade [name][][val1] allies and [val2] enemies was killed in process[][]This city become vassal of our empire[]Our remaining [val3] armies have returned</en>
+      <id>Pasukan kita telah berhasil menyerbu [name][][val1] sekutu dan [val2] musuh terbunuh dalam process[][]Kota ini menjadi vassal dari kemaharajaan kita[]Sisa [val3] pasukan kita telah kembali</id>
+    </Key>
+    <Key Key="expedition_desc_invade_finish_failed">
+      <en>Our armies have failed to invade [name][][val1] allies and [val2] enemies was killed in process</en>
+      <id>Pasukan kita telah gagal menyerbu [name][][val1] sekutu dan [val2] musuh terbunuh dalam process</id>
+    </Key>
+	
+	<!-- expedition trade -->
+	
+    <Key Key="expedition_name_trade_init">
+      <en>Trade with [name]</en>
+      <id>Berdagang dengan [name]</id>
+    </Key>
+    <Key Key="expedition_desc_trade_init">
+      <en>Our merchant are ready to sail and trade with [name] in [time] turns[]Upon finished, we will gain [value]</en>
+      <id>Pedagang kita telah siap berlayar dan berdagang dengan [name] dalam [time] giliran[]Setelah selesai, kita akan memperoleh [value]</id>
+    </Key>
+    <Key Key="expedition_button_trade_init">
+      <en>Trade[]([value])</en>
+      <id>Dagang[]([value])</id>
+    </Key>
+	
+    <Key Key="expedition_name_trade_finish">
+      <en>Merchant Returned</en>
+      <id>Pedagang Kembali</id>
+    </Key>
+    <Key Key="expedition_desc_trade_finish_success">
+      <en>Our merchant have successfully trade with [name][][]They returned with [value][][]Relation with this city is increased</en>
+      <id>Pedagang kita telah berhasil berdagang dengan [name][][]Mereka pulang dengan membawa [value][][]Hubungan dengan kota ini meningkat</id>
+    </Key>
+    <Key Key="expedition_desc_trade_finish_failed">
+      <en>Our merchant was attacked by pirate while attempt to trade with [name][]They returned empty handed</en>
+      <id>Pedagang kita telah diserang oleh perompak ketika akan berdagang dengan [name][]Mereka pulang dengan tangan kosong</id>
+    </Key>
+	
+	<!-- expedition sendgift -->
+	
+    <Key Key="expedition_name_sendgift_init">
+      <en>Send Gift to [name]</en>
+      <id>Kirim Hadiah ke [name]</id>
+    </Key>
+    <Key Key="expedition_desc_sendgift_init">
+      <en>Our envoy are ready to send gift to [name]'s lord in [time] turns</en>
+      <id>Utusan kita telah siap mengirim hadiah ke penguasa [name] dalam [time] giliran</id>
+    </Key>
+    <Key Key="expedition_button_sendgift_init">
+      <en>Send Gift[]([value] Wealth)</en>
+      <id>Kirim Hadiah[]([value] Kekayaan)</id>
+    </Key>
+	
+    <Key Key="expedition_name_sendgift_finish">
+      <en>Envoy Returned</en>
+      <id>Utusan Kembali</id>
+    </Key>
+    <Key Key="expedition_desc_sendgift_finish_success">
+      <en>Our gift have been accepted by [name]'s lord[][]Relation with this city is increased</en>
+      <id>Hadiah kita telah diterima oleh penguasa [name][][]Hubungan dengan kota ini meningkat</id>
+    </Key>
+    <Key Key="expedition_desc_sendgift_finish_failed">
+      <en>Our gift have been refused by [name]'s lord and our envoy was humiliated in process[][]Relation with this city is decreased</en>
+      <id>Hadiah kita telah ditolak oleh penguasa [name] dan utusan kita telah dipermalukan dalam proses[][]Hubungan dengan kota ini menurun</id>
+    </Key>
+	
+	<!-- expedition raid -->
+	
+    <Key Key="expedition_name_raid_init">
+      <en>Raid [name]</en>
+      <id>Menjarah [name]</id>
+    </Key>
+    <Key Key="expedition_desc_raid_init">
+      <en>Our armies are ready to raid [name] in [time] turns[]They have about [value] armies</en>
+      <id>Pasukan kita telah siap menjarah [name] dalam [time] giliran[]Mereka punya sekitar [value] pasukan</id>
+    </Key>
+    <Key Key="expedition_buttona_raid_init">
+      <en>Send Armies[]([value] Military)</en>
+      <id>Kirim Pasukan[]([value] Militer)</id>
+    </Key>
+    <Key Key="expedition_buttonb_raid_init">
+      <en>Send Larger Armies[]([value] Military)</en>
+      <id>Kirim Banyak Pasukan[]([value] Militer)</id>
+    </Key>
+	
+    <Key Key="expedition_name_raid_finish">
+      <en>Raid [name]</en>
+      <id>Menjarah [name]</id>
+    </Key>
+    <Key Key="expedition_desc_raid_finish_start">
+      <en>Our armies are ready to raid [name][]Upon succeed, we will gain resources from this city</en>
+      <id>Pasukan kita telah siap menjarah [name][]Setelah berhasil, kita akan memperoleh sumber daya dari kota ini</id>
+    </Key>
+    <Key Key="expedition_desc_raid_finish_success">
+      <en>Our armies have successfully raid [name][][val1] allies and [val2] enemies was killed in process[][]Our remaining [val3] armies have returned with [val4]</en>
+      <id>Pasukan kita telah berhasil menjarah [name][][val1] sekutu dan [val2] musuh terbunuh dalam process[][]Sisa [val3] pasukan kita telah kembali dengan membawa [val4]</id>
+    </Key>
+    <Key Key="expedition_desc_raid_finish_failed">
+      <en>Our armies have failed to raid [name][][val1] allies and [val2] enemies was killed in process</en>
+      <id>Pasukan kita telah gagal menjarah [name][][val1] sekutu dan [val2] musuh terbunuh dalam process</id>
+    </Key>
+	
+	<!-- expedition break alliance -->
+	
+    <Key Key="expedition_name_break_init">
+      <en>Break Alliance</en>
+      <id>Pembubaran Persekutuan</id>
+    </Key>
+    <Key Key="expedition_desc_break_init">
+      <en>Break alliance with [name] will also decrease relation with them</en>
+      <id>Membubarkan persekutuan dengan [name] juga akan menurunkan hubungan dengan mereka</id>
+    </Key>
+    <Key Key="expedition_button_break_init">
+      <en>Break Alliance</en>
+      <id>Bubarkan persekutuan</id>
+    </Key>
+	
+  </Keys>
+</DataLanguage>
